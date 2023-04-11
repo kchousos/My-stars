@@ -75,7 +75,7 @@
 
 ## ai 
 
-- [kchousos/Pac-Man-Projects](https://github.com/kchousos/Pac-Man-Projects) - My solutions to the Berkeley Pac-Man projects.
+- [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## analytics 
@@ -95,7 +95,7 @@
 
 ## artificial-intelligence 
 
-- [kchousos/Pac-Man-Projects](https://github.com/kchousos/Pac-Man-Projects) - My solutions to the Berkeley Pac-Man projects.
+- [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
 
 ## awesome 
 
@@ -341,6 +341,7 @@
 
 ## others 
 
+- [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [Zilong-Li/org-tufte](https://github.com/Zilong-Li/org-tufte) - Export org file to beautiful Tufte html
@@ -443,7 +444,7 @@
 
 ## python 
 
-- [kchousos/Pac-Man-Projects](https://github.com/kchousos/Pac-Man-Projects) - My solutions to the Berkeley Pac-Man projects.
+- [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
