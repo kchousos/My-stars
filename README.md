@@ -64,7 +64,7 @@
 
 ## C++ 
 
-- [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Basic Matrix, Polynomial and Vector Implementation
+- [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Matrix, Polynomial and Vector Implementations
 - [kchousos/Solar-system-openGL](https://github.com/kchousos/Solar-system-openGL) - A simple solar system implementation in openGL.
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
@@ -107,6 +107,7 @@
 
 ## Emacs Lisp 
 
+- [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
