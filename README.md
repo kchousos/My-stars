@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
 - [Org](#org)
@@ -201,6 +202,10 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [kawaiiDango/pScrobbler](https://github.com/kawaiiDango/pScrobbler) - A last.fm, Listenbrainz, libre.fm and GNU FM client for Android
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+## Lua 
+
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## Markdown 
 
