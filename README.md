@@ -170,7 +170,6 @@
 
 ## Java 
 
-- [jgenc/hua-distributed-project-backend](https://github.com/jgenc/hua-distributed-project-backend) - 
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 
@@ -238,6 +237,7 @@
 - [yannistrf/Tic-Tac-Toe-sockets](https://github.com/yannistrf/Tic-Tac-Toe-sockets) - Play tic-tac-toe with your friend wherever he is !!!
 - [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [jgenc/hua-distributed-project-backend](https://github.com/jgenc/hua-distributed-project-backend) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
