@@ -26,6 +26,7 @@
 - [emacs](#emacs)
 - [ember](#ember)
 - [emulator](#emulator)
+- [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
@@ -35,6 +36,7 @@
 - [github](#github)
 - [go](#go)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [html](#html)
 - [image-processing](#image-processing)
 - [iot](#iot)
@@ -172,6 +174,7 @@
 
 ## emacs 
 
+- [tom-tan/auctex-latexmk](https://github.com/tom-tan/auctex-latexmk) - This library adds LatexMk support to AUCTeX.
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
 - [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
@@ -198,6 +201,10 @@
 
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+
+## finance 
+
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## firefox 
 
@@ -250,6 +257,10 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+## haskell 
+
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## html 
 
@@ -341,6 +352,7 @@
 
 ## others 
 
+- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
