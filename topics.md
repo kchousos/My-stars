@@ -17,6 +17,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [dart](#dart)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
@@ -86,6 +87,8 @@
 
 ## android 
 
+- [xuhcc/beancount-mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
+- [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
 - [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -148,6 +151,10 @@
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 
+## dart 
+
+- [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
+
 ## database 
 
 - [kchousos/IDBS](https://github.com/kchousos/IDBS) - Implementations of different kinds of databases, written in pure C.
@@ -162,7 +169,7 @@
 
 ## docker 
 
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 
 ## dotnet 
 
@@ -213,6 +220,7 @@
 
 ## flutter 
 
+- [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 
 ## font 
@@ -321,6 +329,7 @@
 
 ## mobile 
 
+- [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 
 ## music 
