@@ -240,6 +240,7 @@
 
 ## Python 
 
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
