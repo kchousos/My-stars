@@ -362,6 +362,7 @@
 
 ## others 
 
+- [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
