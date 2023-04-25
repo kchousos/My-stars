@@ -117,6 +117,7 @@
 
 ## c 
 
+- [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [kchousos/IDBS](https://github.com/kchousos/IDBS) - Implementations of different kinds of databases, written in pure C.
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -362,6 +363,7 @@
 
 ## others 
 
+- [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
