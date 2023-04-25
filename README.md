@@ -40,6 +40,7 @@
 
 ## C 
 
+- [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
 - [yannistrf/Parallel-Programming](https://github.com/yannistrf/Parallel-Programming) - 
 - [yannistrf/Readers-Writers-Problem](https://github.com/yannistrf/Readers-Writers-Problem) - An implementation of the readers-writers problem, using semaphores and shared memory in C.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -110,6 +111,7 @@
 
 ## Emacs Lisp 
 
+- [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
