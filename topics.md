@@ -363,6 +363,7 @@
 
 ## others 
 
+- [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
