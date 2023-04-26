@@ -111,6 +111,7 @@
 
 ## Emacs Lisp 
 
+- [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
