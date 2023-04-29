@@ -363,6 +363,7 @@
 
 ## others 
 
+- [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
@@ -373,7 +374,6 @@
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
-- [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [Zilong-Li/org-tufte](https://github.com/Zilong-Li/org-tufte) - Export org file to beautiful Tufte html
@@ -408,7 +408,7 @@
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
-- [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - Completion Overlay Region FUnction
+- [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - COmpletion in Region FUnction
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 - [andras-simonyi/org-cite-csl-activate](https://github.com/andras-simonyi/org-cite-csl-activate) - A CSL-based activation processor for Org citations
