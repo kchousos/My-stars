@@ -111,6 +111,8 @@
 
 ## Emacs Lisp 
 
+- [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
+- [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
 - [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
