@@ -238,7 +238,7 @@
 ## Others 
 
 - [jgenc/hua-distributed-project-specs](https://github.com/jgenc/hua-distributed-project-specs) - 
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [aimacode/aima-pseudocode](https://github.com/aimacode/aima-pseudocode) - Pseudocode descriptions of the algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [rougier/baby-gnu-tux](https://github.com/rougier/baby-gnu-tux) - 3D files for printing baby GNU and Tux
 
