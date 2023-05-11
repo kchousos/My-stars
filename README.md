@@ -40,6 +40,8 @@
 
 ## C 
 
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
+- [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
 - [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
 - [yannistrf/Parallel-Programming](https://github.com/yannistrf/Parallel-Programming) - 
 - [yannistrf/Readers-Writers-Problem](https://github.com/yannistrf/Readers-Writers-Problem) - An implementation of the readers-writers problem, using semaphores and shared memory in C.
@@ -192,6 +194,7 @@
 
 ## JavaScript 
 
+- [hackclub/sinerider](https://github.com/hackclub/sinerider) - 💖 A game about love and graphing, built by teenagers. Play it now!
 - [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) - Application/browser chooser
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
