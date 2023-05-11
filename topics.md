@@ -21,6 +21,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [elixir](#elixir)
@@ -70,6 +71,7 @@
 - [rust](#rust)
 - [statistics](#statistics)
 - [terminal](#terminal)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -117,6 +119,7 @@
 
 ## c 
 
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [kchousos/IDBS](https://github.com/kchousos/IDBS) - Implementations of different kinds of databases, written in pure C.
@@ -167,6 +170,10 @@
 ## design 
 
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
+
+## discord 
+
+- [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
 
 ## docker 
 
@@ -365,6 +372,7 @@
 
 ## others 
 
+- [hackclub/sinerider](https://github.com/hackclub/sinerider) - 💖 A game about love and graphing, built by teenagers. Play it now!
 - [dbordak/telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [cdominik/cdlatex](https://github.com/cdominik/cdlatex) - Fast input methods to enter LaTeX environments and math with GNU Emacs
@@ -529,6 +537,10 @@
 ## terminal 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+
+## twitter 
+
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 
 ## typescript 
 
