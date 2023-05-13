@@ -10,7 +10,6 @@
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
 - [compiler](#compiler)
@@ -106,12 +105,7 @@
 
 ## awesome 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
-
-## awesome-list 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## bash 
 
