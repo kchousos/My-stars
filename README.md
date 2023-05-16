@@ -113,6 +113,7 @@
 
 ## Emacs Lisp 
 
+- [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [dbordak/telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
