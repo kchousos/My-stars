@@ -60,6 +60,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
+- [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
 - [pytorch](#pytorch)
@@ -280,6 +281,7 @@
 
 ## haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ## html 
@@ -337,6 +339,7 @@
 
 ## markdown 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
@@ -492,6 +495,10 @@
 
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+## publishing 
+
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## pwa 
 
