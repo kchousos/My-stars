@@ -256,10 +256,12 @@
 
 ## Python 
 
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
 - [yannistrf/Tic-Tac-Toe-sockets](https://github.com/yannistrf/Tic-Tac-Toe-sockets) - Play tic-tac-toe with your friend wherever he is !!!
