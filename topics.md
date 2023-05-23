@@ -10,6 +10,7 @@
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
 - [clojure](#clojure)
@@ -109,7 +110,12 @@
 
 ## awesome 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+
+## awesome-list 
+
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## bash 
 
@@ -382,6 +388,7 @@
 
 ## others 
 
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
