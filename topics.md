@@ -72,6 +72,7 @@
 - [reactjs](#reactjs)
 - [ruby](#ruby)
 - [rust](#rust)
+- [self-hosted](#self-hosted)
 - [statistics](#statistics)
 - [terminal](#terminal)
 - [twitter](#twitter)
@@ -388,6 +389,7 @@
 
 ## others 
 
+- [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
@@ -403,7 +405,7 @@
 - [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-- [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
@@ -422,7 +424,6 @@
 - [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
 - [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Matrix, Polynomial and Vector Implementations
 - [dakrone/ox-tufte](https://github.com/dakrone/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
-- [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
@@ -553,6 +554,12 @@
 ## rust 
 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+
+## self-hosted 
+
+- [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## statistics 
 
