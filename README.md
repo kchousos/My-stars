@@ -114,6 +114,7 @@
 
 ## Emacs Lisp 
 
+- [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [dbordak/telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
@@ -199,7 +200,7 @@
 ## JavaScript 
 
 - [hackclub/sinerider](https://github.com/hackclub/sinerider) - 💖 A game about love and graphing, built by teenagers. Play it now!
-- [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) - Application/browser chooser
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
