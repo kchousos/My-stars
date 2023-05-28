@@ -40,6 +40,7 @@
 
 ## C 
 
+- [yannistrf/MyShell](https://github.com/yannistrf/MyShell) - A simple Unix based shell, implemented in C.
 - [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
 - [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
