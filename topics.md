@@ -389,6 +389,8 @@
 
 ## others 
 
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for  `typst`, a markup-based typesetting system.
 - [yannistrf/MyShell](https://github.com/yannistrf/MyShell) - A simple Unix based shell, implemented in C.
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
