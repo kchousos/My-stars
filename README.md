@@ -115,6 +115,7 @@
 
 ## Emacs Lisp 
 
+- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for  `typst`, a markup-based typesetting system.
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
@@ -287,6 +288,7 @@
 
 ## Rust 
 
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 ## SCSS 
