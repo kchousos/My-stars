@@ -115,6 +115,7 @@
 
 ## Emacs Lisp 
 
+- [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for  `typst`, a markup-based typesetting system.
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
