@@ -198,6 +198,7 @@
 
 ## emacs 
 
+- [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [tom-tan/auctex-latexmk](https://github.com/tom-tan/auctex-latexmk) - This library adds LatexMk support to AUCTeX.
