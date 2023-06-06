@@ -29,6 +29,7 @@
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
+- [Racket](#racket)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -282,6 +283,10 @@
 - [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+
+## Racket 
+
+- [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
 
 ## Ruby 
 
