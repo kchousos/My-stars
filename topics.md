@@ -198,6 +198,7 @@
 
 ## emacs 
 
+- [hasu/emacs-ob-racket](https://github.com/hasu/emacs-ob-racket) - Emacs Org-Mode Babel code block Racket support
 - [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
@@ -429,7 +430,7 @@
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
 - [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Matrix, Polynomial and Vector Implementations
-- [dakrone/ox-tufte](https://github.com/dakrone/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
+- [ox-tufte/ox-tufte](https://github.com/ox-tufte/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
