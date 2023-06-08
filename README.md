@@ -310,6 +310,7 @@
 
 ## TeX 
 
+- [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [Compilers-DiT-2023/Analysis-of-Haskell](https://github.com/Compilers-DiT-2023/Analysis-of-Haskell) - An analysis of Haskell and its GHC compiler, as part of the K31 Compilers course of Spring 2023 at DIT UoA.
 - [kongr45gpen/ece-notes](https://github.com/kongr45gpen/ece-notes) - Notes from courses in Electrical & Computer Engineering in AUTh (not officially affiliated with the university). All notes are written in Greek using LaTeX.
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
