@@ -13,6 +13,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
+- [chrome-extension](#chrome-extension)
 - [clojure](#clojure)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -136,6 +137,10 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
+## chrome-extension 
+
+- [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
 ## clojure 
 
@@ -391,6 +396,7 @@
 
 ## others 
 
+- [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
