@@ -251,6 +251,7 @@
 
 ## font 
 
+- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 
