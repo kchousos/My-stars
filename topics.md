@@ -94,6 +94,7 @@
 
 ## android 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [xuhcc/beancount-mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
 - [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
@@ -341,6 +342,7 @@
 
 ## linux 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) - Application/browser chooser
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [losuler/com.cisco.PacketTracer](https://github.com/losuler/com.cisco.PacketTracer) - A Flatpak manifest for Cisco's Packet Tracer.
@@ -496,7 +498,7 @@
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
-- [Diego-Ivan/Flowtime](https://github.com/Diego-Ivan/Flowtime) - Get what motivates you done, without losing concentration.
+- [Diego-Ivan/Flowtime](https://github.com/Diego-Ivan/Flowtime) - Spend your time wisely
 - [xdanaux/moderncv](https://github.com/xdanaux/moderncv) - A modern curriculum vitae class for LaTeX
 - [tarsius/minions](https://github.com/tarsius/minions) - A minor-mode menu for the mode line
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
