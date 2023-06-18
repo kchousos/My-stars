@@ -342,6 +342,7 @@
 
 ## linux 
 
+- [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) - Application/browser chooser
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
