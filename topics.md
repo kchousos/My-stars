@@ -400,6 +400,7 @@
 
 ## others 
 
+- [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) - Dynamic tiling Wayland compositor configurable in Guile Scheme, based on dwl and libguile - now with a REPL!
 - [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
