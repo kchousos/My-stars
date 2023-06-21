@@ -118,6 +118,7 @@
 
 ## Emacs Lisp 
 
+- [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
 - [hasu/emacs-ob-racket](https://github.com/hasu/emacs-ob-racket) - Emacs Org-Mode Babel code block Racket support
 - [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
