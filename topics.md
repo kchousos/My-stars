@@ -400,6 +400,7 @@
 
 ## others 
 
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [AlynxZhou/flipclock](https://github.com/AlynxZhou/flipclock) - A flip clock screensaver supported by SDL2.
 - [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
