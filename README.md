@@ -109,7 +109,6 @@
 
 ## Dart 
 
-- [bradyt/cone](https://github.com/bradyt/cone) - A ledger.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 
 ## Elixir 
@@ -208,6 +207,7 @@
 
 ## JavaScript 
 
+- [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [hackclub/sinerider](https://github.com/hackclub/sinerider) - 💖 A game about love and graphing, built by teenagers. Play it now!
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
