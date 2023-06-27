@@ -35,6 +35,7 @@
 - [font](#font)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -257,6 +258,11 @@
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
+## gamedev 
+
+- [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
 ## git 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -392,6 +398,7 @@
 
 ## others 
 
+- [rexim/gruber-darker-theme](https://github.com/rexim/gruber-darker-theme) - Gruber Darker color theme for Emacs 24+
 - [karthink/dired-delight](https://github.com/karthink/dired-delight) - Tag files with colors in Dired
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [AlynxZhou/flipclock](https://github.com/AlynxZhou/flipclock) - A flip clock screensaver supported by SDL2.
