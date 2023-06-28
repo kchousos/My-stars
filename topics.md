@@ -398,6 +398,8 @@
 
 ## others 
 
+- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
+- [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [rexim/gruber-darker-theme](https://github.com/rexim/gruber-darker-theme) - Gruber Darker color theme for Emacs 24+
 - [karthink/dired-delight](https://github.com/karthink/dired-delight) - Tag files with colors in Dired
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
