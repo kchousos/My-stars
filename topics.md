@@ -201,6 +201,7 @@
 
 - [hasu/emacs-ob-racket](https://github.com/hasu/emacs-ob-racket) - Emacs Org-Mode Babel code block Racket support
 - [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
+- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - Emacs support for Typst.
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [tom-tan/auctex-latexmk](https://github.com/tom-tan/auctex-latexmk) - This library adds LatexMk support to AUCTeX.
@@ -412,7 +413,6 @@
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
-- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for  `typst`, a markup-based typesetting system.
 - [yannistrf/MyShell](https://github.com/yannistrf/MyShell) - A simple Unix based shell, implemented in C.
 - [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
