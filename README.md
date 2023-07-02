@@ -195,6 +195,7 @@
 
 ## HTML 
 
+- [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [jgenc/digilib](https://github.com/jgenc/digilib) - 
