@@ -24,6 +24,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
+- [Mermaid](#mermaid)
 - [MoonScript](#moonscript)
 - [Org](#org)
 - [Others](#others)
@@ -117,6 +118,7 @@
 
 ## Emacs Lisp 
 
+- [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
 - [fritzgrabo/elfeed-webkit](https://github.com/fritzgrabo/elfeed-webkit) - Emacs: Render elfeed entries in embedded webkit widgets
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
@@ -213,6 +215,7 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [hackclub/sinerider](https://github.com/hackclub/sinerider) - 💖 A game about love and graphing, built by teenagers. Play it now!
@@ -251,6 +254,10 @@
 ## Markdown 
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
+
+## Mermaid 
+
+- [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
 
 ## MoonScript 
 
