@@ -14,6 +14,7 @@
 - [bash](#bash)
 - [c](#c)
 - [chrome-extension](#chrome-extension)
+- [cli](#cli)
 - [clojure](#clojure)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -141,6 +142,10 @@
 ## chrome-extension 
 
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+
+## cli 
+
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 
 ## clojure 
 
@@ -399,6 +404,8 @@
 
 ## others 
 
+- [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
+- [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [fritzgrabo/elfeed-webkit](https://github.com/fritzgrabo/elfeed-webkit) - Emacs: Render elfeed entries in embedded webkit widgets
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
