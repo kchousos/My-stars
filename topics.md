@@ -11,6 +11,7 @@
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [babel](#babel)
 - [bash](#bash)
 - [c](#c)
 - [chrome-extension](#chrome-extension)
@@ -62,6 +63,7 @@
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
+- [parsing](#parsing)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -122,6 +124,10 @@
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
+## babel 
+
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
 ## bash 
 
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
@@ -155,6 +161,7 @@
 
 ## compiler 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 ## cpp 
@@ -206,6 +213,7 @@
 
 ## emacs 
 
+- [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
 - [hasu/emacs-ob-racket](https://github.com/hasu/emacs-ob-racket) - Emacs Org-Mode Babel code block Racket support
 - [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
 - [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - Emacs support for Typst.
@@ -260,6 +268,7 @@
 
 ## frontend 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## game-development 
@@ -332,6 +341,7 @@
 
 ## javascript 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -535,6 +545,10 @@
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
 
+## parsing 
+
+- [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
+
 ## pixel-art 
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -600,6 +614,7 @@
 
 ## rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 
 ## self-hosted 
@@ -622,6 +637,7 @@
 
 ## typescript 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 
 ## vuejs 
