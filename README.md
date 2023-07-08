@@ -118,6 +118,7 @@
 
 ## Emacs Lisp 
 
+- [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
 - [fritzgrabo/elfeed-webkit](https://github.com/fritzgrabo/elfeed-webkit) - Emacs: Render elfeed entries in embedded webkit widgets
@@ -317,6 +318,7 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -341,6 +343,7 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [xuhcc/beancount-mobile](https://github.com/xuhcc/beancount-mobile) - Data entry app for Beancount plain-text accounting system
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
