@@ -24,7 +24,6 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
-- [Mermaid](#mermaid)
 - [MoonScript](#moonscript)
 - [Org](#org)
 - [Others](#others)
@@ -217,7 +216,9 @@
 
 ## JavaScript 
 
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -257,10 +258,6 @@
 ## Markdown 
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
-
-## Mermaid 
-
-- [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
 
 ## MoonScript 
 
