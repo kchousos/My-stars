@@ -60,6 +60,7 @@
 - [music](#music)
 - [nextjs](#nextjs)
 - [nim](#nim)
+- [nodejs](#nodejs)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -302,6 +303,7 @@
 
 ## hacktoberfest 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
@@ -341,6 +343,7 @@
 
 ## javascript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
@@ -411,6 +414,10 @@
 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 
+## nodejs 
+
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
 ## opengl 
 
 - [kchousos/Solar-system-openGL](https://github.com/kchousos/Solar-system-openGL) - A simple solar system implementation in openGL.
@@ -426,6 +433,7 @@
 
 ## others 
 
+- [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
