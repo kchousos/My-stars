@@ -20,6 +20,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -216,6 +217,7 @@
 
 ## JavaScript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [kchousos/FullStackOpen](https://github.com/kchousos/FullStackOpen) - My solutions to the https://fullstackopen.com/en/ exercises.
@@ -235,6 +237,10 @@
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
+
+## Jinja 
+
+- [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 
 ## Jupyter Notebook 
 
