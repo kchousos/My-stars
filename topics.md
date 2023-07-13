@@ -31,6 +31,7 @@
 - [emacs](#emacs)
 - [ember](#ember)
 - [emulator](#emulator)
+- [express](#express)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -60,6 +61,7 @@
 - [music](#music)
 - [nextjs](#nextjs)
 - [nim](#nim)
+- [node](#node)
 - [nodejs](#nodejs)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -248,6 +250,11 @@
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 
+## express 
+
+- [kchousos/FullStackOpen-BackEnd](https://github.com/kchousos/FullStackOpen-BackEnd) - My solutions to the https://fullstackopen.com/en/ part 3  backend exercises.
+- [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
+
 ## finance 
 
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -303,6 +310,7 @@
 
 ## hacktoberfest 
 
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -343,6 +351,7 @@
 
 ## javascript 
 
+- [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
@@ -414,8 +423,14 @@
 
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 
+## node 
+
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+
 ## nodejs 
 
+- [kchousos/FullStackOpen-BackEnd](https://github.com/kchousos/FullStackOpen-BackEnd) - My solutions to the https://fullstackopen.com/en/ part 3  backend exercises.
+- [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 ## opengl 
@@ -433,6 +448,7 @@
 
 ## others 
 
+- [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
