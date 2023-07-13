@@ -118,6 +118,7 @@
 
 ## Emacs Lisp 
 
+- [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
@@ -217,6 +218,9 @@
 
 ## JavaScript 
 
+- [kchousos/FullStackOpen-BackEnd](https://github.com/kchousos/FullStackOpen-BackEnd) - My solutions to the https://fullstackopen.com/en/ part 3  backend exercises.
+- [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
