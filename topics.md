@@ -58,6 +58,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mobile](#mobile)
+- [mongodb](#mongodb)
 - [music](#music)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -409,6 +410,10 @@
 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 
+## mongodb 
+
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+
 ## music 
 
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
@@ -429,6 +434,7 @@
 
 ## nodejs 
 
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [kchousos/FullStackOpen-BackEnd](https://github.com/kchousos/FullStackOpen-BackEnd) - My solutions to the https://fullstackopen.com/en/ part 3  backend exercises.
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
