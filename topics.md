@@ -479,7 +479,7 @@
 
 ## others 
 
-- [sdi2000200/Creation_And_Use_Of_Data_Bases](https://github.com/sdi2000200/Creation_And_Use_Of_Data_Bases) - 
+- [Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases](https://github.com/Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases) - 
 - [Fuco1/compile-eslint](https://github.com/Fuco1/compile-eslint) - compilation-error-regexp-alist rules for eslint
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
