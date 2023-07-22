@@ -479,6 +479,8 @@
 
 ## others 
 
+- [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
+- [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
 - [Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases](https://github.com/Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases) - 
 - [Fuco1/compile-eslint](https://github.com/Fuco1/compile-eslint) - compilation-error-regexp-alist rules for eslint
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
