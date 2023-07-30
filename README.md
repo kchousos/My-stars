@@ -111,6 +111,7 @@
 
 ## Dart 
 
+- [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 
 ## Elixir 
