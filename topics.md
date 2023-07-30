@@ -479,6 +479,7 @@
 
 ## others 
 
+- [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [henrikmidtiby/todonotes](https://github.com/henrikmidtiby/todonotes) - The package lets the user mark things to do later, in a simple and and visually appealing way.
 - [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
 - [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
