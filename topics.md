@@ -224,7 +224,7 @@
 ## emacs 
 
 - [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
-- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free editing experience
+- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
 - [orzechowskid/flymake-eslint](https://github.com/orzechowskid/flymake-eslint) - Flymake backend for Javascript using eslint
 - [codesuki/add-node-modules-path](https://github.com/codesuki/add-node-modules-path) - Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.
 - [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
