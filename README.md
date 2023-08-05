@@ -42,6 +42,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
 - [AlynxZhou/flipclock](https://github.com/AlynxZhou/flipclock) - A flip clock screensaver supported by SDL2.
 - [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) - Dynamic tiling Wayland compositor configurable in Guile Scheme, based on dwl and libguile - now with a REPL!
@@ -120,6 +121,7 @@
 
 ## Emacs Lisp 
 
+- [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
 - [wyuenho/all-the-icons-dired](https://github.com/wyuenho/all-the-icons-dired) - Adds dired support to all-the-icons
 - [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
