@@ -121,6 +121,7 @@
 
 ## Emacs Lisp 
 
+- [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
 - [wyuenho/all-the-icons-dired](https://github.com/wyuenho/all-the-icons-dired) - Adds dired support to all-the-icons
 - [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
