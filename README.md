@@ -235,6 +235,7 @@
 
 ## JavaScript 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -278,6 +279,8 @@
 
 ## Kotlin 
 
+- [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
@@ -386,6 +389,8 @@
 
 ## TypeScript 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [PDConSec/vsc-print](https://github.com/PDConSec/vsc-print) - Completely local print support for VS Code with syntax-colouring and line numbering
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [MichaBrugger/obsidian-footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
