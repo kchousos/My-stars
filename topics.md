@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -55,6 +56,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [js](#js)
 - [kotlin](#kotlin)
 - [language](#language)
 - [latex](#latex)
@@ -99,8 +101,10 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
+- [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 
@@ -129,6 +133,10 @@
 - [kawaiiDango/pScrobbler](https://github.com/kawaiiDango/pScrobbler) - A last.fm, Listenbrainz, libre.fm and GNU FM client for Android
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+## api 
+
+- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 
 ## artificial-intelligence 
 
@@ -233,6 +241,7 @@
 
 ## docker 
 
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 
 ## dotnet 
@@ -316,6 +325,7 @@
 
 ## frontend 
 
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
@@ -352,6 +362,7 @@
 
 ## golang 
 
+- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
@@ -409,6 +420,7 @@
 
 ## javascript 
 
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [Themiscodes/Auction-Website](https://github.com/Themiscodes/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -422,6 +434,10 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## js 
+
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 
 ## kotlin 
 
@@ -533,6 +549,8 @@
 
 ## others 
 
+- [go-vikunja/app](https://github.com/go-vikunja/app) - 
+- [mvgrimes/obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin) - Obsidian plugin to manage todotxt files
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [PDConSec/vsc-print](https://github.com/PDConSec/vsc-print) - Completely local print support for VS Code with syntax-colouring and line numbering
@@ -770,6 +788,7 @@
 
 ## self-hosted 
 
+- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
@@ -806,8 +825,13 @@
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 
+## vue 
+
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
+
 ## vuejs 
 
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## web 
@@ -815,6 +839,10 @@
 - [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
+
+## webapp 
+
+- [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 
 ## website 
 
