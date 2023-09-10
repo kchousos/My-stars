@@ -31,7 +31,6 @@
 - [Perl](#perl)
 - [Python](#python)
 - [Racket](#racket)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -95,6 +94,7 @@
 
 ## CSS 
 
+- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [jethrokuan/org-roam-guide](https://github.com/jethrokuan/org-roam-guide) - How I Take Notes In Org-roam (WIP)
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
@@ -309,6 +309,7 @@
 
 ## Others 
 
+- [miguelsolorio/min-theme](https://github.com/miguelsolorio/min-theme) - A minimal theme for Visual Studio Code
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
 - [jgenc/hua-distributed-project-specs](https://github.com/jgenc/hua-distributed-project-specs) - 
@@ -353,10 +354,6 @@
 ## Racket 
 
 - [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
-
-## Roff 
-
-- [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 
 ## Ruby 
 
