@@ -551,6 +551,7 @@
 
 ## others 
 
+- [miguelsolorio/min-theme](https://github.com/miguelsolorio/min-theme) - A minimal theme for Visual Studio Code
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [mpcjanssen/simpletask-android](https://github.com/mpcjanssen/simpletask-android) - 
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
