@@ -10,6 +10,7 @@
 - [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
+- [atom](#atom)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [babel](#babel)
@@ -77,7 +78,6 @@
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
-- [parsing](#parsing)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -93,6 +93,7 @@
 - [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [statistics](#statistics)
@@ -141,6 +142,10 @@
 ## artificial-intelligence 
 
 - [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
+
+## atom 
+
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 
 ## awesome 
 
@@ -255,32 +260,18 @@
 
 ## emacs 
 
-- [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
-- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
 - [orzechowskid/flymake-eslint](https://github.com/orzechowskid/flymake-eslint) - Flymake backend for Javascript using eslint
-- [codesuki/add-node-modules-path](https://github.com/codesuki/add-node-modules-path) - Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.
-- [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
-- [hasu/emacs-ob-racket](https://github.com/hasu/emacs-ob-racket) - Emacs Org-Mode Babel code block Racket support
-- [greghendershott/racket-mode](https://github.com/greghendershott/racket-mode) - Emacs major and minor modes for Racket: edit, REPL, check-syntax, debug, profile, and more.
-- [Ziqi-Yang/typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - Emacs support for Typst.
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [tom-tan/auctex-latexmk](https://github.com/tom-tan/auctex-latexmk) - This library adds LatexMk support to AUCTeX.
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-- [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
-- [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
-- [tefkah/org-roam-timestamps](https://github.com/tefkah/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
 - [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 - [fuxialexander/org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
-- [harrybournis/org-fancy-priorities](https://github.com/harrybournis/org-fancy-priorities) - Display Org Mode priorities as custom strings
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [rnkn/olivetti](https://github.com/rnkn/olivetti) - Emacs minor mode to automatically balance window margins
-- [rougier/svg-tag-mode](https://github.com/rougier/svg-tag-mode) - A minor mode for Emacs that replace keywords with nice SVG labels
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
-- [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [emacs-dashboard/emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 
@@ -347,7 +338,6 @@
 ## git 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 
 ## github 
@@ -358,11 +348,13 @@
 
 ## go 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## golang 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -459,7 +451,6 @@
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
-- [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 
 ## library 
 
@@ -525,7 +516,6 @@
 ## node 
 
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [codesuki/add-node-modules-path](https://github.com/codesuki/add-node-modules-path) - Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 
 ## nodejs 
@@ -585,25 +575,18 @@
 - [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
 - [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
 - [Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases](https://github.com/Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases) - 
-- [Fuco1/compile-eslint](https://github.com/Fuco1/compile-eslint) - compilation-error-regexp-alist rules for eslint
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
-- [pashky/restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
-- [arnm/ob-mermaid](https://github.com/arnm/ob-mermaid) - Generate mermaid diagrams within Emacs org-mode babel
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
-- [fritzgrabo/elfeed-webkit](https://github.com/fritzgrabo/elfeed-webkit) - Emacs: Render elfeed entries in embedded webkit widgets
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
-- [rexim/gruber-darker-theme](https://github.com/rexim/gruber-darker-theme) - Gruber Darker color theme for Emacs 24+
 - [karthink/dired-delight](https://github.com/karthink/dired-delight) - Tag files with colors in Dired
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [AlynxZhou/flipclock](https://github.com/AlynxZhou/flipclock) - A flip clock screensaver supported by SDL2.
-- [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 - [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) - Dynamic tiling Wayland compositor configurable in Guile Scheme, based on dwl and libguile - now with a REPL!
-- [alpha22jp/atomic-chrome](https://github.com/alpha22jp/atomic-chrome) - Edit text area on Chrome with Emacs using Atomic Chrome
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
@@ -621,17 +604,13 @@
 - [gaoDean/org-remoteimg](https://github.com/gaoDean/org-remoteimg) - Display remote inline images in org-mode with automatic caching.
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
-- [karthink/project-x](https://github.com/karthink/project-x) - Ehancements to Emacs' built in project library.
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
-- [Zilong-Li/org-tufte](https://github.com/Zilong-Li/org-tufte) - Export org file to beautiful Tufte html
-- [TobiasZawada/org-yt](https://github.com/TobiasZawada/org-yt) - Youtube links in org-mode, see  https://emacs.stackexchange.com/questions/38098/org-mode-custom-youtube-link-syntax
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
 - [yannistrf/Parallel-Programming](https://github.com/yannistrf/Parallel-Programming) - 
@@ -643,7 +622,6 @@
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
 - [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Matrix, Polynomial and Vector Implementations
-- [ox-tufte/ox-tufte](https://github.com/ox-tufte/ox-tufte) - Emacs' Org-mode export backend for Tufte HTML
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
@@ -654,7 +632,6 @@
 - [jgenc/hua-distributed-project-backend](https://github.com/jgenc/hua-distributed-project-backend) - 
 - [qwreey75/quick-settings-tweaks](https://github.com/qwreey75/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
 - [emacs-citar/citar-org-roam](https://github.com/emacs-citar/citar-org-roam) - citar/org-roam integration
-- [marcinkoziej/org-pomodoro](https://github.com/marcinkoziej/org-pomodoro) - pomodoro technique for org-mode
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [michaelwillis/dragonfly-reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of free reverb effects
 - [brummer10/GxPlugins.lv2](https://github.com/brummer10/GxPlugins.lv2) - A set of extra lv2 plugins from the guitarix project.
@@ -667,7 +644,6 @@
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 - [andras-simonyi/org-cite-csl-activate](https://github.com/andras-simonyi/org-cite-csl-activate) - A CSL-based activation processor for Org citations
 - [tecosaur/this-month-in-org](https://github.com/tecosaur/this-month-in-org) - A monthly blog on developments with Org
-- [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [bdarcus/oxr](https://github.com/bdarcus/oxr) - 
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [aimacode/aima-pseudocode](https://github.com/aimacode/aima-pseudocode) - Pseudocode descriptions of the algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
@@ -680,7 +656,6 @@
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
-- [yjwen/org-reveal](https://github.com/yjwen/org-reveal) - Exports Org-mode contents to Reveal.js HTML presentation.
 - [meriken/merikens-tripcode-engine-v3](https://github.com/meriken/merikens-tripcode-engine-v3) - "Meriken's Tripcode Engine" is a cross-platform custom tripcode generator.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [rougier/baby-gnu-tux](https://github.com/rougier/baby-gnu-tux) - 3D files for printing baby GNU and Tux
@@ -703,15 +678,10 @@
 - [xdanaux/moderncv](https://github.com/xdanaux/moderncv) - A modern curriculum vitae class for LaTeX
 - [tarsius/minions](https://github.com/tarsius/minions) - A minor-mode menu for the mode line
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-- [tarsius/moody](https://github.com/tarsius/moody) - Tabs and ribbons for the mode-line
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
-
-## parsing 
-
-- [felipeochoa/rjsx-mode](https://github.com/felipeochoa/rjsx-mode) - A JSX major mode for Emacs
 
 ## pixel-art 
 
@@ -719,6 +689,7 @@
 
 ## postgresql 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -737,6 +708,7 @@
 
 ## python 
 
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [kchousos/Berkeley-Pacman-Projects](https://github.com/kchousos/Berkeley-Pacman-Projects) - My solutions to the Berkeley Pac-Man projects of spring 2022.
@@ -790,6 +762,10 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+
+## security 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## self-hosted 
 
