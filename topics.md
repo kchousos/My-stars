@@ -368,6 +368,7 @@
 
 ## hacktoberfest 
 
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -554,6 +555,8 @@
 
 ## others 
 
+- [ppvan/nautilus-open-in-blackbox](https://github.com/ppvan/nautilus-open-in-blackbox) - Open BlackBox from Nautilus.
+- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [yannistrf/Elections-Server-System](https://github.com/yannistrf/Elections-Server-System) - 
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
