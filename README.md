@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
@@ -346,6 +347,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
@@ -358,6 +360,8 @@
 
 ## Shell 
 
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
