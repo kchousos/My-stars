@@ -77,9 +77,9 @@
 
 ## C++ 
 
+- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [yannistrf/Elections-Server-System](https://github.com/yannistrf/Elections-Server-System) - 
-- [kostaslemis/Calculator](https://github.com/kostaslemis/Calculator) - Matrix, Polynomial and Vector Implementations
 - [kchousos/Solar-system-openGL](https://github.com/kchousos/Solar-system-openGL) - A simple solar system implementation in openGL.
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
@@ -417,6 +417,7 @@
 
 ## Vala 
 
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [Diego-Ivan/Flowtime](https://github.com/Diego-Ivan/Flowtime) - Spend your time wisely
 
