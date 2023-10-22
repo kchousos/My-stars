@@ -374,6 +374,7 @@
 
 ## TeX 
 
+- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: a book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review.
 - [henrikmidtiby/todonotes](https://github.com/henrikmidtiby/todonotes) - The package lets the user mark things to do later, in a simple and and visually appealing way.
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [Compilers-DiT-2023/Analysis-of-Haskell](https://github.com/Compilers-DiT-2023/Analysis-of-Haskell) - An analysis of Haskell and its GHC compiler, as part of the K31 Compilers course of Spring 2023 at DIT UoA.
