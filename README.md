@@ -385,6 +385,7 @@
 
 ## TypeScript 
 
+- [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
 - [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [Nigecat/obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - Embed graphs directly into your obsidian notes
