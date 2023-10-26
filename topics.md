@@ -218,7 +218,7 @@
 
 ## code-review 
 
-- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: a book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review.
+- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.
 
 ## compiler 
 
@@ -366,7 +366,7 @@
 
 ## github 
 
-- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: a book where I listed all the advice I gave to and received from developers over the past few years about pull requests and code review.
+- [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
@@ -396,6 +396,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -586,6 +587,7 @@
 
 ## others 
 
+- [vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom) - 
 - [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
@@ -671,7 +673,6 @@
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
