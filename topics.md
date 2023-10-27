@@ -177,6 +177,7 @@
 
 ## c 
 
+- [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
@@ -231,6 +232,7 @@
 
 ## cpp 
 
+- [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [kchousos/Solar-system-openGL](https://github.com/kchousos/Solar-system-openGL) - A simple solar system implementation in openGL.
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
@@ -386,6 +388,7 @@
 
 ## hacktoberfest 
 
+- [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
