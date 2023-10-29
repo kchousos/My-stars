@@ -590,6 +590,7 @@
 
 ## others 
 
+- [mgmeyers/pdfannots2json](https://github.com/mgmeyers/pdfannots2json) - 
 - [vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom) - 
 - [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
