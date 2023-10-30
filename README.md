@@ -139,7 +139,7 @@
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [karthink/elfeed-tube](https://github.com/karthink/elfeed-tube) - Youtube integration for Elfeed, the feed reader for Emacs
 - [karthink/dired-delight](https://github.com/karthink/dired-delight) - Tag files with colors in Dired
-- [karthink/gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [dbordak/telephone-line](https://github.com/dbordak/telephone-line) - A new implementation of Powerline for Emacs
