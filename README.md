@@ -295,6 +295,7 @@
 
 ## Others 
 
+- [CS-IEEE-SB-NTUA/Ethical-Hacking](https://github.com/CS-IEEE-SB-NTUA/Ethical-Hacking) - A repository where the material of the Ethical Hacking IEEE 2023-2024 team will be uploaded
 - [miguelsolorio/min-theme](https://github.com/miguelsolorio/min-theme) - A minimal theme for Visual Studio Code
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
