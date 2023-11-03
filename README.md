@@ -306,6 +306,7 @@
 
 ## Perl 
 
+- [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 
 ## Python 
