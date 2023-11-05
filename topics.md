@@ -247,7 +247,7 @@
 ## css 
 
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
@@ -406,7 +406,6 @@
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -426,7 +425,7 @@
 
 - [jakebox/org-preview-html](https://github.com/jakebox/org-preview-html) - Automatically preview org-exported HTML files within Emacs.
 - [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 
 ## image-processing 
 
