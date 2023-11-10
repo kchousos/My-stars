@@ -34,6 +34,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
+- [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [ember](#ember)
@@ -50,6 +51,7 @@
 - [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
@@ -89,6 +91,7 @@
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
+- [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [rails](#rails)
@@ -279,6 +282,10 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
+## electron 
+
+- [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
+
 ## elixir 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -368,10 +375,15 @@
 
 ## github 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
+
+## github-api 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## go 
 
@@ -449,6 +461,7 @@
 
 ## javascript 
 
+- [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [Themiscodes/Auction-Website](https://github.com/Themiscodes/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
@@ -589,6 +602,8 @@
 
 ## others 
 
+- [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
+- [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [CS-IEEE-SB-NTUA/Ethical-Hacking](https://github.com/CS-IEEE-SB-NTUA/Ethical-Hacking) - A repository where the material of the Ethical Hacking IEEE 2023-2024 team will be uploaded
@@ -774,6 +789,7 @@
 
 ## python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
@@ -784,6 +800,10 @@
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+
+## python3 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## pytorch 
 
@@ -853,6 +873,7 @@
 
 ## statistics 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## terminal 
