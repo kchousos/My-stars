@@ -36,6 +36,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -380,6 +381,10 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [brummer10/GxPlugins.lv2](https://github.com/brummer10/GxPlugins.lv2) - A set of extra lv2 plugins from the guitarix project.
 - [losuler/com.cisco.PacketTracer](https://github.com/losuler/com.cisco.PacketTracer) - A Flatpak manifest for Cisco's Packet Tracer.
+
+## Svelte 
+
+- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 
 ## TeX 
 
