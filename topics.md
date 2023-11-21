@@ -715,7 +715,7 @@
 - [jgenc/hua-distributed-project-specs](https://github.com/jgenc/hua-distributed-project-specs) - 
 - [jgenc/hua-distributed-project-frontend](https://github.com/jgenc/hua-distributed-project-frontend) - 
 - [jgenc/hua-distributed-project-backend](https://github.com/jgenc/hua-distributed-project-backend) - 
-- [qwreey75/quick-settings-tweaks](https://github.com/qwreey75/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
+- [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
 - [emacs-citar/citar-org-roam](https://github.com/emacs-citar/citar-org-roam) - citar/org-roam integration
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [michaelwillis/dragonfly-reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of free reverb effects
