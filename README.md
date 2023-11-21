@@ -251,7 +251,7 @@
 - [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [jgenc/hua-distributed-project-frontend](https://github.com/jgenc/hua-distributed-project-frontend) - 
-- [qwreey75/quick-settings-tweaks](https://github.com/qwreey75/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
+- [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
