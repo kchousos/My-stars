@@ -315,6 +315,7 @@
 
 ## Python 
 
+- [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -398,6 +399,7 @@
 
 ## TypeScript 
 
+- [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
 - [vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom) - 
