@@ -19,6 +19,7 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -204,8 +205,13 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
+## chrome 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
 ## chrome-extension 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
 ## cli 
@@ -335,6 +341,7 @@
 
 ## firefox 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 
@@ -401,6 +408,7 @@
 
 ## hacktoberfest 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
