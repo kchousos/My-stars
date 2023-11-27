@@ -400,6 +400,7 @@
 
 ## TypeScript 
 
+- [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Taking Bible Study notes easily in Obsidian, and suggesting the verses automatically with references.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
