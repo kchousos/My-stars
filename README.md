@@ -316,6 +316,7 @@
 
 ## Python 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
@@ -390,6 +391,7 @@
 
 ## TeX 
 
+- [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf) - ⌥ Simple Backus–Naur form (BNF) LaTeX package
 - [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.
 - [henrikmidtiby/todonotes](https://github.com/henrikmidtiby/todonotes) - The package lets the user mark things to do later, in a simple and and visually appealing way.
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
