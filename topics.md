@@ -79,10 +79,12 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [node](#node)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -268,6 +270,7 @@
 
 ## deep-learning 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -505,6 +508,7 @@
 
 ## latex 
 
+- [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf) - ⌥ Simple Backus–Naur form (BNF) LaTeX package
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
@@ -532,6 +536,7 @@
 
 ## machine-learning 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 
 ## macos 
@@ -577,6 +582,10 @@
 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 
+## neural-network 
+
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
 ## nextjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -597,6 +606,10 @@
 - [kchousos/FullStackOpen-BackEnd](https://github.com/kchousos/FullStackOpen-BackEnd) - My solutions to the https://fullstackopen.com/en/ part 3  backend exercises.
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
+## numpy 
+
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## opengl 
 
@@ -804,6 +817,7 @@
 
 ## python 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
