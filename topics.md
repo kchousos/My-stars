@@ -499,6 +499,7 @@
 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
+- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 
@@ -626,6 +627,7 @@
 
 ## others 
 
+- [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
 - [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Taking Bible Study notes easily in Obsidian, and suggesting the verses automatically with references.
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
