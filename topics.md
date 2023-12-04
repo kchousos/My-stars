@@ -419,8 +419,6 @@
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
-- [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -626,6 +624,7 @@
 
 ## others 
 
+- [mitxela/candle](https://github.com/mitxela/candle) - 
 - [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
 - [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Taking Bible Study notes easily in Obsidian, and suggesting the verses automatically with references.
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
