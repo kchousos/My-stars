@@ -624,6 +624,10 @@
 
 ## others 
 
+- [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [KDE/kcachegrind](https://github.com/KDE/kcachegrind) - GUI to profilers such as Valgrind
+- [Erdk/introtoprofiling](https://github.com/Erdk/introtoprofiling) - Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code.
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
 - [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Taking Bible Study notes easily in Obsidian, and suggesting the verses automatically with references.
@@ -818,6 +822,7 @@
 
 ## python 
 
+- [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
