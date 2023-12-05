@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [KDE/kcachegrind](https://github.com/KDE/kcachegrind) - GUI to profilers such as Valgrind
 - [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
 - [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
@@ -223,6 +224,7 @@
 
 ## JavaScript 
 
+- [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
@@ -301,6 +303,8 @@
 
 ## Others 
 
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [Erdk/introtoprofiling](https://github.com/Erdk/introtoprofiling) - Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code.
 - [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
 - [CS-IEEE-SB-NTUA/Ethical-Hacking](https://github.com/CS-IEEE-SB-NTUA/Ethical-Hacking) - A repository where the material of the Ethical Hacking IEEE 2023-2024 team will be uploaded
 - [miguelsolorio/min-theme](https://github.com/miguelsolorio/min-theme) - A minimal theme for Visual Studio Code
@@ -318,6 +322,7 @@
 
 ## Python 
 
+- [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
