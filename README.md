@@ -200,6 +200,7 @@
 
 ## HTML 
 
+- [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -323,6 +324,7 @@
 
 ## Python 
 
+- [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
