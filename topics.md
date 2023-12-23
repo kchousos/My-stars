@@ -163,7 +163,7 @@
 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 
 ## awesome-list 
 
@@ -629,6 +629,7 @@
 
 ## others 
 
+- [retorquere/zotero-open-pdf](https://github.com/retorquere/zotero-open-pdf) - 
 - [abukharin3/ERNIE](https://github.com/abukharin3/ERNIE) - Code for the NeurIPS 2023 Paper: Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.
@@ -658,7 +659,7 @@
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
-- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
+- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - 
 - [ppvan/nautilus-open-in-blackbox](https://github.com/ppvan/nautilus-open-in-blackbox) - Open BlackBox from Nautilus.
