@@ -526,6 +526,7 @@
 
 ## linux 
 
+- [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -634,6 +635,7 @@
 
 ## others 
 
+- [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
 - [retorquere/zotero-open-pdf](https://github.com/retorquere/zotero-open-pdf) - 
@@ -842,6 +844,7 @@
 
 ## python 
 
+- [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
 - [brj0/nndescent](https://github.com/brj0/nndescent) - C++/Python implementation of Nearest Neighbor Descent for efficient approximate nearest neighbor search
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
