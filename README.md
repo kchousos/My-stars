@@ -227,7 +227,6 @@
 ## JavaScript 
 
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
-- [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
@@ -418,6 +417,8 @@
 
 ## TypeScript 
 
+- [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - An Obsidian.md plugin for annotating PDF files with highlights just by linking to text selection. It also adds many quality-of-life improvements to Obsidian's built-in PDF viewer and PDF embeds.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [retorquere/zotero-open-pdf](https://github.com/retorquere/zotero-open-pdf) - 
@@ -426,6 +427,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
 - [vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom) - 
 - [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
