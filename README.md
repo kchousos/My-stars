@@ -201,6 +201,7 @@
 
 ## HTML 
 
+- [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -307,6 +308,7 @@
 
 ## Others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [Erdk/introtoprofiling](https://github.com/Erdk/introtoprofiling) - Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code.
 - [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
@@ -326,6 +328,7 @@
 
 ## Python 
 
+- [gitolicious/avery-asn](https://github.com/gitolicious/avery-asn) - A label generator for Paperless-ngx labels on Avery labels
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
