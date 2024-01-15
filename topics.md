@@ -639,6 +639,9 @@
 
 ## others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
+- [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
+- [gitolicious/avery-asn](https://github.com/gitolicious/avery-asn) - A label generator for Paperless-ngx labels on Avery labels
 - [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [bradgessler/formdown](https://github.com/bradgessler/formdown) - A Markdown-like syntax for web forms.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
