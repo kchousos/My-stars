@@ -44,6 +44,7 @@
 
 ## C 
 
+- [EliasKons/ReadWriteVariation](https://github.com/EliasKons/ReadWriteVariation) - 
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
