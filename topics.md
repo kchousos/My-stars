@@ -639,6 +639,10 @@
 
 ## others 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
+- [EliasKons/MergeSortTasks](https://github.com/EliasKons/MergeSortTasks) - 
+- [EliasKons/MatMultPadding](https://github.com/EliasKons/MatMultPadding) - 
+- [EliasKons/DistributedVotingSystem](https://github.com/EliasKons/DistributedVotingSystem) - 
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [EliasKons/ReadWriteVariation](https://github.com/EliasKons/ReadWriteVariation) - 
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
