@@ -44,6 +44,9 @@
 
 ## C 
 
+- [EliasKons/MergeSortTasks](https://github.com/EliasKons/MergeSortTasks) - 
+- [EliasKons/MatMultPadding](https://github.com/EliasKons/MatMultPadding) - 
+- [EliasKons/DistributedVotingSystem](https://github.com/EliasKons/DistributedVotingSystem) - 
 - [EliasKons/ReadWriteVariation](https://github.com/EliasKons/ReadWriteVariation) - 
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -80,6 +83,7 @@
 
 ## C++ 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [linkdd/aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 - [brj0/nndescent](https://github.com/brj0/nndescent) - C++/Python implementation of Nearest Neighbor Descent for efficient approximate nearest neighbor search
 - [KDE/kcachegrind](https://github.com/KDE/kcachegrind) - GUI to profilers such as Valgrind
