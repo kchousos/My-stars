@@ -44,6 +44,7 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [EliasKons/MergeSortTasks](https://github.com/EliasKons/MergeSortTasks) - 
 - [EliasKons/MatMultPadding](https://github.com/EliasKons/MatMultPadding) - 
@@ -353,7 +354,7 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases](https://github.com/Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases) - 
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
