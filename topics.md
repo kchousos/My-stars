@@ -30,6 +30,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
@@ -111,6 +112,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [statistics](#statistics)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -247,6 +249,7 @@
 
 ## computer-vision 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
 
 ## cpp 
@@ -275,12 +278,17 @@
 - [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 
+## data-science 
+
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+
 ## database 
 
 - [kchousos/IDBS](https://github.com/kchousos/IDBS) - Implementations of different kinds of databases, written in pure C.
 
 ## deep-learning 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -554,6 +562,7 @@
 
 ## machine-learning 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -875,6 +884,7 @@
 
 ## python 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
@@ -899,6 +909,7 @@
 
 ## pytorch 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -968,6 +979,10 @@
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
+## tensorflow 
+
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 
 ## terminal 
 
