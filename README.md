@@ -203,7 +203,7 @@
 - [mgmeyers/pdfannots2json](https://github.com/mgmeyers/pdfannots2json) - 
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## HTML 
