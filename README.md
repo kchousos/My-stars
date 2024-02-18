@@ -423,6 +423,7 @@
 
 ## TeX 
 
+- [wangshusen/DeepLearning](https://github.com/wangshusen/DeepLearning) - 
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf) - ⌥ Simple Backus–Naur form (BNF) LaTeX package
 - [scastiel/book-pr](https://github.com/scastiel/book-pr) - Pull Requests and Code Review: Best Practices for Developers, from Junior to Team Lead.
