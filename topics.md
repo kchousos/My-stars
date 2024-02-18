@@ -660,6 +660,7 @@
 
 ## others 
 
+- [wangshusen/DeepLearning](https://github.com/wangshusen/DeepLearning) - 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
