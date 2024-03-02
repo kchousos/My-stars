@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [linkdd/aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 - [brj0/nndescent](https://github.com/brj0/nndescent) - C++/Python implementation of Nearest Neighbor Descent for efficient approximate nearest neighbor search
@@ -200,6 +201,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [mgmeyers/pdfannots2json](https://github.com/mgmeyers/pdfannots2json) - 
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -208,6 +210,7 @@
 
 ## HTML 
 
+- [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - 
@@ -234,6 +237,7 @@
 
 ## JavaScript 
 
+- [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
 - [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
@@ -334,6 +338,8 @@
 
 ## Python 
 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+- [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
