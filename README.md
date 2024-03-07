@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -124,6 +125,10 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [rksm/clj-org-analyzer](https://github.com/rksm/clj-org-analyzer) - Fun with org data
 
+## CoffeeScript 
+
+- [ccd0/4chan-x](https://github.com/ccd0/4chan-x) - Adds various features to anonymous imageboards.
+
 ## Common Lisp 
 
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
@@ -210,6 +215,8 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
@@ -442,6 +449,7 @@
 
 ## TypeScript 
 
+- [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot with a more powerful and local AI
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
