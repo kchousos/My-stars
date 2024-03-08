@@ -669,6 +669,11 @@
 
 ## others 
 
+- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
+- [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
+- [shen-yu/hugo-chart](https://github.com/shen-yu/hugo-chart) - a Chart.js component for Hugo. :chart_with_upwards_trend:
+- [joksas/hugo-simplecite](https://github.com/joksas/hugo-simplecite) - Citations in Hugo websites.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
 - [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
