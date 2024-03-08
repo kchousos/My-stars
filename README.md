@@ -206,6 +206,7 @@
 
 ## Go 
 
+- [shen-yu/hugo-chart](https://github.com/shen-yu/hugo-chart) - a Chart.js component for Hugo. :chart_with_upwards_trend:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [mgmeyers/pdfannots2json](https://github.com/mgmeyers/pdfannots2json) - 
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
@@ -215,6 +216,8 @@
 
 ## HTML 
 
+- [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
+- [joksas/hugo-simplecite](https://github.com/joksas/hugo-simplecite) - Citations in Hugo websites.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
@@ -420,6 +423,7 @@
 
 ## Shell 
 
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
@@ -449,6 +453,7 @@
 
 ## TypeScript 
 
+- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot with a more powerful and local AI
