@@ -670,6 +670,7 @@
 
 ## others 
 
+- [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - 
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
