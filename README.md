@@ -330,6 +330,7 @@
 
 ## Others 
 
+- [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - 
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
