@@ -248,6 +248,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
@@ -331,6 +332,7 @@
 
 ## Others 
 
+- [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - 
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
