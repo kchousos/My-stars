@@ -108,6 +108,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -308,6 +309,7 @@
 
 ## discord 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
 
 ## django 
@@ -561,6 +563,7 @@
 
 ## linux 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
@@ -931,6 +934,7 @@
 
 ## python 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
@@ -992,6 +996,10 @@
 ## rest-api 
 
 - [Themiscodes/Auction-Website](https://github.com/Themiscodes/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
+
+## reverse-engineering 
+
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 
 ## ruby 
 
