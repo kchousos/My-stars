@@ -692,6 +692,7 @@
 
 ## others 
 
+- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - 
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
