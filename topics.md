@@ -692,6 +692,7 @@
 
 ## others 
 
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - 
