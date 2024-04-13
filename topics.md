@@ -692,6 +692,7 @@
 
 ## others 
 
+- [Dominic-DallOsto/zotero-reading-list](https://github.com/Dominic-DallOsto/zotero-reading-list) - Keep track of whether you've read items in Zotero
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -708,7 +709,7 @@
 - [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
 - [ccd0/4chan-x](https://github.com/ccd0/4chan-x) - Adds various features to anonymous imageboards.
 - [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird
-- [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot with a more powerful and local AI
+- [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
