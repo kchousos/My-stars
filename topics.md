@@ -114,6 +114,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1040,6 +1041,10 @@
 
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## statistics 
 
