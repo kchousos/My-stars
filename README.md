@@ -46,6 +46,7 @@
 
 ## C 
 
+- [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -256,6 +257,7 @@
 
 ## JavaScript 
 
+- [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote) - Take time-stamped YouTube notes
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
