@@ -259,6 +259,7 @@
 
 ## JavaScript 
 
+- [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x) - Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
 - [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote) - Take time-stamped YouTube notes
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
