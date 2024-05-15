@@ -483,6 +483,7 @@
 
 ## TypeScript 
 
+- [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
