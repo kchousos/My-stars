@@ -318,6 +318,7 @@
 
 ## Kotlin 
 
+- [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Cross-plaform desktop manga downloader
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
 - [mpcjanssen/simpletask-android](https://github.com/mpcjanssen/simpletask-android) - 
@@ -483,6 +484,7 @@
 
 ## TypeScript 
 
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -557,6 +559,7 @@
 
 ## Vue 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
