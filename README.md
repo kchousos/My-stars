@@ -87,6 +87,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [zoeyfyi/TeX-Match](https://github.com/zoeyfyi/TeX-Match) - Search through over 1000 different LaTeX symbols by sketching. A desktop version of detexify.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
@@ -436,6 +437,7 @@
 
 ## Rust 
 
+- [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
