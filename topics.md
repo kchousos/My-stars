@@ -224,7 +224,7 @@
 
 ## chatgpt 
 
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
@@ -687,7 +687,7 @@
 
 ## nextjs 
 
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 
@@ -995,7 +995,7 @@
 
 ## python 
 
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities.
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
