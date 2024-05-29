@@ -489,7 +489,7 @@
 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
-- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+- [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
