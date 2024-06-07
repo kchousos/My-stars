@@ -378,6 +378,7 @@
 
 ## Python 
 
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [nlpaueb/greek-bert](https://github.com/nlpaueb/greek-bert) - A Greek edition of BERT pre-trained language model
