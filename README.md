@@ -44,6 +44,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## C 
@@ -152,6 +153,7 @@
 
 ## Dart 
 
+- [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
@@ -266,6 +268,7 @@
 
 ## JavaScript 
 
+- [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x) - Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
 - [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote) - Take time-stamped YouTube notes
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -456,6 +459,7 @@
 
 ## Rust 
 
+- [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -578,6 +582,10 @@
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 - [Diego-Ivan/Flowtime](https://github.com/Diego-Ivan/Flowtime) - Spend your time wisely
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
