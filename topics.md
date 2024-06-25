@@ -319,6 +319,7 @@
 
 ## deep-learning 
 
+- [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [alessiodm/drl-zh](https://github.com/alessiodm/drl-zh) - Deep Reinforcement Learning: Zero to Hero!
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -596,6 +597,7 @@
 
 ## latex 
 
+- [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf) - ⌥ Simple Backus–Naur form (BNF) LaTeX package
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -655,6 +657,7 @@
 
 ## markdown 
 
+- [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 - [ofou/graham-essays](https://github.com/ofou/graham-essays) - 📚 Download the full collection of Paul Graham essays in EPUB, PDF & Markdown for easy reading.
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
@@ -765,6 +768,10 @@
 
 ## others 
 
+- [fuglede/llama.ttf](https://github.com/fuglede/llama.ttf) - A font for writing tiny stories
+- [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
+- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [potamides/DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 - [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
