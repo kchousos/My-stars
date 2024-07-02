@@ -15,6 +15,7 @@
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [GLSL](#glsl)
@@ -43,6 +44,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -94,6 +96,8 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
@@ -163,6 +167,10 @@
 
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) - 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
+
+## Earthly 
+
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## Elixir 
 
@@ -269,6 +277,7 @@
 
 ## JavaScript 
 
+- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x) - Customizable user-theme with user stylesheet and night theme auto-switch based on the Night Light.
@@ -497,6 +506,7 @@
 
 ## Svelte 
 
+- [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 
@@ -519,6 +529,8 @@
 
 ## TypeScript 
 
+- [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
+- [Podginator/KoboOmnivoreConverter](https://github.com/Podginator/KoboOmnivoreConverter) - A Proxy to enable the Kobo Clara to use Omnivore over Pocket for it's articles.
 - [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
@@ -587,6 +599,10 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
+
+## Typst 
+
+- [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
 
 ## Vala 
 
