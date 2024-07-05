@@ -262,6 +262,7 @@
 
 ## cli 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1151,6 +1152,7 @@
 
 ## rust 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
@@ -1206,6 +1208,7 @@
 
 ## terminal 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
