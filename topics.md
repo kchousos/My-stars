@@ -784,6 +784,7 @@
 
 ## others 
 
+- [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
