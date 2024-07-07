@@ -784,6 +784,7 @@
 
 ## others 
 
+- [cargocats/nautilus-open-in-ptyxis](https://github.com/cargocats/nautilus-open-in-ptyxis) - Open Ptyxis from Nautilus.
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
@@ -1071,6 +1072,7 @@
 
 ## python 
 
+- [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
