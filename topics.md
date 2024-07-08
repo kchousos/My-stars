@@ -784,6 +784,8 @@
 
 ## others 
 
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+- [EliasKons/CSPDomWdeg](https://github.com/EliasKons/CSPDomWdeg) - 
 - [cargocats/nautilus-open-in-ptyxis](https://github.com/cargocats/nautilus-open-in-ptyxis) - Open Ptyxis from Nautilus.
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
