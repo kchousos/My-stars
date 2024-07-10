@@ -55,6 +55,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [games](#games)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -467,6 +468,10 @@
 - [kchousos/Ninja-vs-Zombies](https://github.com/kchousos/Ninja-vs-Zombies) - A platform game written in C with the Raylib library.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
+## games 
+
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+
 ## git 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -784,6 +789,7 @@
 
 ## others 
 
+- [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [EliasKons/CSPDomWdeg](https://github.com/EliasKons/CSPDomWdeg) - 
 - [cargocats/nautilus-open-in-ptyxis](https://github.com/cargocats/nautilus-open-in-ptyxis) - Open Ptyxis from Nautilus.
