@@ -151,6 +151,7 @@
 
 ## analytics 
 
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## android 
@@ -789,6 +790,7 @@
 
 ## others 
 
+- [sdi2000148/NN-DescentAlgorithm](https://github.com/sdi2000148/NN-DescentAlgorithm) - NN-descent algorithm in C
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [EliasKons/CSPDomWdeg](https://github.com/EliasKons/CSPDomWdeg) - 
