@@ -635,6 +635,7 @@
 
 ## linux 
 
+- [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
@@ -790,6 +791,7 @@
 
 ## others 
 
+- [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows
 - [sdi2000148/NN-DescentAlgorithm](https://github.com/sdi2000148/NN-DescentAlgorithm) - NN-descent algorithm in C
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
