@@ -791,6 +791,8 @@
 
 ## others 
 
+- [THeK3nger/obsidian-chessboard](https://github.com/THeK3nger/obsidian-chessboard) - Plugin to render chessboards in Obsidian using chessboardjs
+- [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
 - [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows
 - [sdi2000148/NN-DescentAlgorithm](https://github.com/sdi2000148/NN-DescentAlgorithm) - NN-descent algorithm in C
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
