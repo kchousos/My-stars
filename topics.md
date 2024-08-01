@@ -791,6 +791,7 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [THeK3nger/obsidian-chessboard](https://github.com/THeK3nger/obsidian-chessboard) - Plugin to render chessboards in Obsidian using chessboardjs
 - [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
 - [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows
