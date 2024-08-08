@@ -383,6 +383,7 @@
 
 ## Others 
 
+- [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
@@ -413,6 +414,7 @@
 
 ## Python 
 
+- [avalonv/reCBZ](https://github.com/avalonv/reCBZ) - Utility for converting and optimizing comics for e-readers & mobile devices
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -498,6 +500,7 @@
 
 ## Rust 
 
+- [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
@@ -555,6 +558,9 @@
 
 ## TypeScript 
 
+- [kebot/reink.app](https://github.com/kebot/reink.app) - 
+- [agrmohit/omnivore-epub](https://github.com/agrmohit/omnivore-epub) - A program to generate epub file from articles saved in your Omnivore library and optionally send it to your eReader using email
+- [dominiclet/obsidian-note-definitions](https://github.com/dominiclet/obsidian-note-definitions) - Obsidian plugin for seamless viewing of personal definitions
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [THeK3nger/obsidian-chessboard](https://github.com/THeK3nger/obsidian-chessboard) - Plugin to render chessboards in Obsidian using chessboardjs
 - [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
