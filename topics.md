@@ -102,6 +102,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -816,6 +817,11 @@
 
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
 
+## openai 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
 ## opengl 
 
 - [kchousos/Solar-system-openGL](https://github.com/kchousos/Solar-system-openGL) - A simple solar system implementation in openGL.
@@ -987,7 +993,6 @@
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [wyuenho/all-the-icons-dired](https://github.com/wyuenho/all-the-icons-dired) - Adds dired support to all-the-icons
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
