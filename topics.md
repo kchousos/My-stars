@@ -347,7 +347,6 @@
 
 ## csharp 
 
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
 ## css 
@@ -410,7 +409,6 @@
 
 ## dotnet 
 
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
 ## education 
@@ -454,7 +452,6 @@
 
 ## emulator 
 
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 
@@ -1009,8 +1006,6 @@
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [henrikmidtiby/todonotes](https://github.com/henrikmidtiby/todonotes) - The package lets the user mark things to do later, in a simple and and visually appealing way.
 - [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
-- [Angelos-Tsitsoli/Data-Bases](https://github.com/Angelos-Tsitsoli/Data-Bases) - 
-- [Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases](https://github.com/Angelos-Tsitsoli/Creation_And_Use_Of_Data_Bases) - 
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
