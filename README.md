@@ -67,7 +67,7 @@
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
+- [Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project) - 
 - [AlynxZhou/flipclock](https://github.com/AlynxZhou/flipclock) - A flip clock screensaver supported by SDL2.
 - [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) - Dynamic tiling Wayland compositor configurable in Guile Scheme, based on dwl and libguile - now with a REPL!
 - [yannistrf/MyShell](https://github.com/yannistrf/MyShell) - A simple Unix based shell, implemented in C.
