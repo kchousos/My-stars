@@ -565,6 +565,7 @@
 
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -880,7 +881,6 @@
 - [fuglede/llama.ttf](https://github.com/fuglede/llama.ttf) - A font for writing tiny stories
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
-- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [potamides/DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 - [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
@@ -1009,7 +1009,7 @@
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [henrikmidtiby/todonotes](https://github.com/henrikmidtiby/todonotes) - The package lets the user mark things to do later, in a simple and and visually appealing way.
-- [Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation_And_Creation_Of_Data_Bases-Project) - 
+- [Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project) - 
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [jgenc/devops-project](https://github.com/jgenc/devops-project) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -1209,6 +1209,7 @@
 
 ## react 
 
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Themiscodes/Auction-Website](https://github.com/Themiscodes/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1325,6 +1326,7 @@
 
 - [Podginator/KoboOmnivoreConverter](https://github.com/Podginator/KoboOmnivoreConverter) - A Proxy to enable the Kobo Clara to use Omnivore over Pocket for it's articles.
 - [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
