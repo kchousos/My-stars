@@ -51,6 +51,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [ember](#ember)
+- [emoji](#emoji)
 - [emulator](#emulator)
 - [eslint](#eslint)
 - [express](#express)
@@ -237,6 +238,7 @@
 
 ## c 
 
+- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
@@ -258,6 +260,7 @@
 
 ## c-plus-plus 
 
+- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
@@ -336,6 +339,7 @@
 
 ## cpp 
 
+- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [linkdd/aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 - [brj0/nndescent](https://github.com/brj0/nndescent) - C++/Python implementation of Nearest Neighbor Descent for efficient approximate nearest neighbor search
@@ -451,6 +455,10 @@
 ## ember 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## emoji 
+
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## emulator 
 
@@ -735,6 +743,7 @@
 
 ## markdown 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
 - [ofou/graham-essays](https://github.com/ofou/graham-essays) - 📚 Download the full collection of Paul Graham essays in EPUB, PDF & Markdown for easy reading.
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
@@ -854,6 +863,7 @@
 
 ## others 
 
+- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [zebreus/all-gnome-backgrounds](https://github.com/zebreus/all-gnome-backgrounds) - Get all gnome backgrounds
 - [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
@@ -1155,6 +1165,7 @@
 
 ## python 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
@@ -1184,6 +1195,7 @@
 
 ## python3 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## pytorch 
@@ -1261,6 +1273,7 @@
 
 ## security 
 
+- [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
@@ -1310,6 +1323,7 @@
 
 ## terminal 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
