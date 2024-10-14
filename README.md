@@ -354,7 +354,7 @@
 
 ## Kotlin 
 
-- [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Cross-plaform desktop manga downloader
+- [KotatsuApp/kotatsu-dl-gui](https://github.com/KotatsuApp/kotatsu-dl-gui) - Cross-plaform desktop manga downloader
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
 - [mpcjanssen/simpletask-android](https://github.com/mpcjanssen/simpletask-android) - 
