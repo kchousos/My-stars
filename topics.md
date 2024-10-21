@@ -866,6 +866,7 @@
 
 ## others 
 
+- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) - a static analysis tool for finding vulnerabilities in C/C++ source code
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
