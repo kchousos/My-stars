@@ -283,6 +283,7 @@
 
 ## Java 
 
+- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 
