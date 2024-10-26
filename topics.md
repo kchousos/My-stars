@@ -572,6 +572,7 @@
 
 ## hacktoberfest 
 
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
@@ -700,6 +701,7 @@
 
 ## linux 
 
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
@@ -870,6 +872,8 @@
 
 ## others 
 
+- [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
+- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
