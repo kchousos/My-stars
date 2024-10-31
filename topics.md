@@ -872,6 +872,7 @@
 
 ## others 
 
+- [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
 - [tdhooten/Polyglot](https://github.com/tdhooten/Polyglot) - A simple Blazor app which converts libraries of saved links between the native formats of various read-it-later services. Currently supports GoodLinks, Instapaper, Omnivore, Raindrop.io, and Readwise 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
