@@ -880,6 +880,8 @@
 
 ## others 
 
+- [civilizationFromScratch/cfs](https://github.com/civilizationFromScratch/cfs) - The necessary knowledge and technology to recreate civilization from scratch
+- [ragtux/cnility](https://github.com/ragtux/cnility) - 
 - [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
 - [tdhooten/Polyglot](https://github.com/tdhooten/Polyglot) - A simple Blazor app which converts libraries of saved links between the native formats of various read-it-later services. Currently supports GoodLinks, Instapaper, Omnivore, Raindrop.io, and Readwise 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
