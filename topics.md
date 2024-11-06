@@ -880,6 +880,7 @@
 
 ## others 
 
+- [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - 
 - [civilizationFromScratch/cfs](https://github.com/civilizationFromScratch/cfs) - The necessary knowledge and technology to recreate civilization from scratch
 - [ragtux/cnility](https://github.com/ragtux/cnility) - 
 - [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
@@ -1065,7 +1066,7 @@
 - [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) - Dynamic tiling Wayland compositor configurable in Guile Scheme, based on dwl and libguile - now with a REPL!
 - [kchousos/SICP-solutions](https://github.com/kchousos/SICP-solutions) - My solutions to the SICP exercises.
 - [nebhrajani-a/sicp](https://github.com/nebhrajani-a/sicp) - Racket implementation and notes for SICP's video lectures.
-- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - [Deprecated]  An early language server for Typst, plus a VS Code extension
 - [yannistrf/MyShell](https://github.com/yannistrf/MyShell) - A simple Unix based shell, implemented in C.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [progfolio/elpaca](https://github.com/progfolio/elpaca) - An elisp package manager
@@ -1081,7 +1082,7 @@
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-- [vasanthv/pinggy](https://github.com/vasanthv/pinggy) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
