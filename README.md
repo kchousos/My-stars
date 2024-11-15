@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -296,6 +297,8 @@
 
 ## JavaScript 
 
+- [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
+- [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
