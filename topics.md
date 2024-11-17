@@ -901,6 +901,7 @@
 
 ## others 
 
+- [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
 - [cneuralnetwork/Company-Links](https://github.com/cneuralnetwork/Company-Links) - 
