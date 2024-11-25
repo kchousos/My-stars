@@ -565,6 +565,7 @@
 
 ## go 
 
+- [jeselnik/rb-scrobbler](https://github.com/jeselnik/rb-scrobbler) - Minimal Rockbox Last.fm Scrobbler (.scrobbler.log files)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -660,6 +661,7 @@
 
 ## javascript 
 
+- [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -803,6 +805,7 @@
 
 ## music 
 
+- [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
 - [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
@@ -901,6 +904,7 @@
 
 ## others 
 
+- [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
@@ -1280,6 +1284,7 @@
 
 ## react 
 
+- [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Themiscodes/Auction-Website](https://github.com/Themiscodes/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
