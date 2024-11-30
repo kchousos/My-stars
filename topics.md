@@ -907,6 +907,7 @@
 
 ## others 
 
+- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [AnotherStranger/rockbox-scrobbler](https://github.com/AnotherStranger/rockbox-scrobbler) - A utility to send a rockbox .scrobble.log to ListenBrainz
 - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
