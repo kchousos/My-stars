@@ -910,6 +910,7 @@
 
 ## others 
 
+- [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
 - [kevinboone/gnome-set-folder-icon](https://github.com/kevinboone/gnome-set-folder-icon) - A script to set directories with a folder/cover file to use that file as an icon in Nautilus
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [AnotherStranger/rockbox-scrobbler](https://github.com/AnotherStranger/rockbox-scrobbler) - A utility to send a rockbox .scrobble.log to ListenBrainz
