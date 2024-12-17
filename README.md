@@ -146,6 +146,7 @@
 
 ## CSS 
 
+- [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
 - [HuangZhuo/minimal-checklists](https://github.com/HuangZhuo/minimal-checklists) - This is a simple extraction from [Obsidian Minimal](https://github.com/kepano/obsidian-minimal) Theme for supporting Alternate Checkboxes.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
