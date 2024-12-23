@@ -913,6 +913,7 @@
 
 ## others 
 
+- [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins) - Load plugins with a delay on Obsidian startup, so that you can get your app startup down into the sub-second loading time.
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
 - [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
 - [HuangZhuo/minimal-checklists](https://github.com/HuangZhuo/minimal-checklists) - This is a simple extraction from [Obsidian Minimal](https://github.com/kepano/obsidian-minimal) Theme for supporting Alternate Checkboxes.
