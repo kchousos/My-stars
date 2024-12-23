@@ -598,6 +598,7 @@
 
 ## TypeScript 
 
+- [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins) - Load plugins with a delay on Obsidian startup, so that you can get your app startup down into the sub-second loading time.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
