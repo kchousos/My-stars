@@ -34,6 +34,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PureScript](#purescript)
 - [Python](#python)
 - [Racket](#racket)
 - [Ruby](#ruby)
@@ -434,6 +435,10 @@
 
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
+
+## PureScript 
+
+- [jeprinz/pantograph](https://github.com/jeprinz/pantograph) - 
 
 ## Python 
 
