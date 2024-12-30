@@ -253,6 +253,7 @@
 
 ## Go 
 
+- [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [jeselnik/rb-scrobbler](https://github.com/jeselnik/rb-scrobbler) - Minimal Rockbox Last.fm Scrobbler (.scrobbler.log files)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -442,6 +443,7 @@
 
 ## Python 
 
+- [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [AnotherStranger/rockbox-scrobbler](https://github.com/AnotherStranger/rockbox-scrobbler) - A utility to send a rockbox .scrobble.log to ListenBrainz
