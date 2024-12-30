@@ -913,6 +913,8 @@
 
 ## others 
 
+- [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
+- [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
 - [jeprinz/pantograph](https://github.com/jeprinz/pantograph) - 
 - [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins) - Load plugins with a delay on Obsidian startup, so that you can get your app startup down into the sub-second loading time.
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
