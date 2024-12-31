@@ -388,6 +388,7 @@
 
 ## Lua 
 
+- [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
