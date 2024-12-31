@@ -913,6 +913,7 @@
 
 ## others 
 
+- [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
 - [jeprinz/pantograph](https://github.com/jeprinz/pantograph) - 
