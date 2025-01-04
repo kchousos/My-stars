@@ -913,6 +913,7 @@
 
 ## others 
 
+- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 - [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
