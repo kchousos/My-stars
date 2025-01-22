@@ -54,6 +54,7 @@
 
 ## C 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [fuzzstati0n/fuzzgoat](https://github.com/fuzzstati0n/fuzzgoat) - A vulnerable C program for testing fuzzers.
@@ -413,6 +414,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [cneuralnetwork/Company-Links](https://github.com/cneuralnetwork/Company-Links) - 
 - [ragtux/cnility](https://github.com/ragtux/cnility) - 
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
