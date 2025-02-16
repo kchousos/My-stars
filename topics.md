@@ -1044,7 +1044,7 @@
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
 - [akalenuk/wordsandbuttons](https://github.com/akalenuk/wordsandbuttons) - A growing collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming.
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
@@ -1084,7 +1084,7 @@
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
-- [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
+- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, videos, pdfs, etc in obsidian notes.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [CS-IEEE-SB-NTUA/Ethical-Hacking](https://github.com/CS-IEEE-SB-NTUA/Ethical-Hacking) - A repository where the material of the Ethical Hacking IEEE 2023-2024 team will be uploaded
@@ -1189,7 +1189,7 @@
 - [jgenc/hua-distributed-project-specs](https://github.com/jgenc/hua-distributed-project-specs) - 
 - [jgenc/hua-distributed-project-frontend](https://github.com/jgenc/hua-distributed-project-frontend) - 
 - [jgenc/hua-distributed-project-backend](https://github.com/jgenc/hua-distributed-project-backend) - 
-- [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome 43's quick settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
+- [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome Quick Settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
 - [emacs-citar/citar-org-roam](https://github.com/emacs-citar/citar-org-roam) - citar/org-roam integration
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [michaelwillis/dragonfly-reverb](https://github.com/michaelwillis/dragonfly-reverb) - A set of free reverb effects
