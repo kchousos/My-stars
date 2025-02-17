@@ -655,7 +655,7 @@
 - [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [retorquere/zotero-open-pdf](https://github.com/retorquere/zotero-open-pdf) - 
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.
@@ -664,7 +664,7 @@
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
-- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, videos, pdfs, etc in obsidian notes.
+- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, audios, videos, pdfs, etc in obsidian notes.
 - [vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom) - 
 - [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
