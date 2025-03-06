@@ -946,6 +946,7 @@
 
 ## others 
 
+- [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [flywhl/logis](https://github.com/flywhl/logis) - Turn your git commit history into a scientific log
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
