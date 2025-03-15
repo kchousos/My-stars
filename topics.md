@@ -185,6 +185,7 @@
 
 ## android 
 
+- [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
@@ -229,7 +230,7 @@
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 
@@ -239,7 +240,7 @@
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## babel 
@@ -639,7 +640,6 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -724,6 +724,7 @@
 
 ## kotlin 
 
+- [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
@@ -810,6 +811,7 @@
 
 ## markdown 
 
+- [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -947,6 +949,8 @@
 
 ## others 
 
+- [FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) - Obsidian Plugin to navigate to the next and previous file in the current directory
+- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
 - [hi-upchen/kobo-up](https://github.com/hi-upchen/kobo-up) - A website reads Kobo database (sqlite) and shows the book and notes.
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [flywhl/logis](https://github.com/flywhl/logis) - Turn your git commit history into a scientific log
