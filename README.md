@@ -375,6 +375,7 @@
 
 ## Kotlin 
 
+- [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [KotatsuApp/kotatsu-dl-gui](https://github.com/KotatsuApp/kotatsu-dl-gui) - Cross-plaform desktop manga downloader
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
@@ -583,7 +584,7 @@
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [brummer10/GxPlugins.lv2](https://github.com/brummer10/GxPlugins.lv2) - A set of extra lv2 plugins from the guitarix project.
@@ -617,6 +618,8 @@
 
 ## TypeScript 
 
+- [FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) - Obsidian Plugin to navigate to the next and previous file in the current directory
+- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
 - [hi-upchen/kobo-up](https://github.com/hi-upchen/kobo-up) - A website reads Kobo database (sqlite) and shows the book and notes.
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
