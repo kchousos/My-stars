@@ -415,6 +415,7 @@
 
 ## Others 
 
+- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [cneuralnetwork/Company-Links](https://github.com/cneuralnetwork/Company-Links) - 
 - [ragtux/cnility](https://github.com/ragtux/cnility) - 
@@ -452,6 +453,7 @@
 
 ## Python 
 
+- [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 - [flywhl/logis](https://github.com/flywhl/logis) - Turn your git commit history into a scientific log
 - [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
