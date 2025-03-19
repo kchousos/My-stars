@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 - [flywhl/logis](https://github.com/flywhl/logis) - Turn your git commit history into a scientific log
 - [entangled/entangled.py](https://github.com/entangled/entangled.py) - Python port of Entangled
