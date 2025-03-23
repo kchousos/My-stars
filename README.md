@@ -608,6 +608,7 @@
 
 ## TeX 
 
+- [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [wangshusen/DeepLearning](https://github.com/wangshusen/DeepLearning) - 
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf) - ⌥ Simple Backus–Naur form (BNF) LaTeX package
