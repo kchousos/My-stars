@@ -29,6 +29,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code](#code)
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -66,6 +67,7 @@
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
+- [framework](#framework)
 - [frontend](#frontend)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -120,6 +122,7 @@
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
+- [package-manager](#package-manager)
 - [pentesting](#pentesting)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -169,6 +172,9 @@
 
 ## ai 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
@@ -304,6 +310,7 @@
 
 ## chatbot 
 
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
@@ -351,6 +358,10 @@
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## code 
+
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 
 ## code-review 
 
@@ -565,6 +576,10 @@
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+
+## framework 
+
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 
 ## frontend 
 
@@ -796,6 +811,8 @@
 
 ## llm 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
@@ -811,6 +828,7 @@
 
 ## machine-learning 
 
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [AI-team-UoA/pyJedAI](https://github.com/AI-team-UoA/pyJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Entity Resolution workflows.
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
@@ -911,6 +929,7 @@
 
 ## nlp 
 
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 
 ## node 
@@ -947,6 +966,7 @@
 
 ## openai 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -972,6 +992,12 @@
 
 ## others 
 
+- [myrtopar/pivot](https://github.com/myrtopar/pivot) - A system designed to exploit binaries with buffer overflow vulnerabilities, ultimately providing shell access. This script automates the exploitation process, showcasing how to manipulate vulnerable m
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - Obsidian plugin. Move note with attachments.
 - [inciteful-xyz/inciteful-web](https://github.com/inciteful-xyz/inciteful-web) - The frontend for Inciteful.xyz.
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
@@ -1045,7 +1071,7 @@
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
-- [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
+- [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) - An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -1272,6 +1298,10 @@
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
 
+## package-manager 
+
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+
 ## pentesting 
 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -1319,6 +1349,9 @@
 
 ## python 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [AI-team-UoA/pyJedAI](https://github.com/AI-team-UoA/pyJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Entity Resolution workflows.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
