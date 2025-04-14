@@ -284,7 +284,6 @@
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
-- [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [jgenc/digilib](https://github.com/jgenc/digilib) - 
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
@@ -396,6 +395,7 @@
 - [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 
 ## Makefile 
 
