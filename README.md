@@ -392,10 +392,10 @@
 
 ## Lua 
 
+- [pandoc-ext/section-bibliographies](https://github.com/pandoc-ext/section-bibliographies) - Filter to create a separate bibliography for each section or chapter
 - [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 
 ## Makefile 
 
@@ -591,6 +591,7 @@
 ## SCSS 
 
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
+- [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 
 ## Shell 
@@ -625,6 +626,7 @@
 
 ## TeX 
 
+- [bbartholdy/endgame](https://github.com/bbartholdy/endgame) - Semi-continuous deployment of my PhD dissertation
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [wangshusen/DeepLearning](https://github.com/wangshusen/DeepLearning) - 
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
