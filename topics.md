@@ -827,6 +827,7 @@
 
 ## lua 
 
+- [pandoc-ext/section-bibliographies](https://github.com/pandoc-ext/section-bibliographies) - Filter to create a separate bibliography for each section or chapter
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## machine-learning 
@@ -999,6 +1000,7 @@
 
 ## others 
 
+- [bbartholdy/endgame](https://github.com/bbartholdy/endgame) - Semi-continuous deployment of my PhD dissertation
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
