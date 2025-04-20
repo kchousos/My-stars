@@ -105,7 +105,7 @@
 
 ## C++ 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -455,6 +455,7 @@
 
 ## Python 
 
+- [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
@@ -573,6 +574,8 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
