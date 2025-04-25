@@ -30,6 +30,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Org](#org)
 - [Others](#others)
@@ -298,6 +299,7 @@
 
 ## Java 
 
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - Mirror repository of the LinkDroid for Linkwarden app
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -305,6 +307,7 @@
 
 ## JavaScript 
 
+- [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
 - [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
@@ -408,6 +411,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 
+## Meson 
+
+- [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita) - An expanded Adwaita-styled companion icon theme with extra icons for popular apps and MIME types to complement Gnome Shell's original icons.
+
 ## MoonScript 
 
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
@@ -418,6 +425,8 @@
 
 ## Others 
 
+- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
+- [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [cneuralnetwork/Company-Links](https://github.com/cneuralnetwork/Company-Links) - 
@@ -648,6 +657,7 @@
 
 ## TypeScript 
 
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
 - [dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - Obsidian plugin. Move note with attachments.
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
 - [FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) - Obsidian Plugin to navigate to the next and previous file in the current directory
@@ -746,6 +756,7 @@
 
 ## Typst 
 
+- [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
 - [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
 
 ## Vala 
