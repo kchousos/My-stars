@@ -273,6 +273,7 @@
 
 ## HTML 
 
+- [AleDenshi/comfy.guide](https://github.com/AleDenshi/comfy.guide) - Comfortable computer tutorials.
 - [civilizationFromScratch/cfs](https://github.com/civilizationFromScratch/cfs) - The necessary knowledge and technology to recreate civilization from scratch
 - [hackintro/hackintro.github.io](https://github.com/hackintro/hackintro.github.io) - Official website of DIT's Introduction to Computer Security
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
