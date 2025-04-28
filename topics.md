@@ -117,6 +117,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -978,6 +979,40 @@
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
+## obsidian-plugin 
+
+- [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
+- [FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) - Obsidian Plugin to navigate to the next and previous file in the current directory
+- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
+- [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
+- [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
+- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
+- [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
+- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
+- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
+- [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
+- [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
+- [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, audios, videos, pdfs, markdown, etc in obsidian notes.
+- [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
+- [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
+- [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
+- [mvgrimes/obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin) - Obsidian plugin to manage todotxt files
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
+- [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
+- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
+- [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+
 ## open-data 
 
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
@@ -1015,6 +1050,7 @@
 
 ## others 
 
+- [AleDenshi/comfy.guide](https://github.com/AleDenshi/comfy.guide) - Comfortable computer tutorials.
 - [HandaArchitect/obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet) - 
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
 - [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
@@ -1032,9 +1068,6 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - Obsidian plugin. Move note with attachments.
 - [inciteful-xyz/inciteful-web](https://github.com/inciteful-xyz/inciteful-web) - The frontend for Inciteful.xyz.
-- [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
-- [FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin) - Obsidian Plugin to navigate to the next and previous file in the current directory
-- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
 - [hi-upchen/kobo-up](https://github.com/hi-upchen/kobo-up) - A website reads Kobo database (sqlite) and shows the book and notes.
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [flywhl/logis](https://github.com/flywhl/logis) - Turn your git commit history into a scientific log
@@ -1086,7 +1119,6 @@
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [THeK3nger/obsidian-chessboard](https://github.com/THeK3nger/obsidian-chessboard) - Plugin to render chessboards in Obsidian using chessboardjs
-- [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
 - [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows
 - [sdi2000148/NN-DescentAlgorithm](https://github.com/sdi2000148/NN-DescentAlgorithm) - NN-descent algorithm in C
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
@@ -1096,12 +1128,10 @@
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
-- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [fuglede/llama.ttf](https://github.com/fuglede/llama.ttf) - A font for writing tiny stories
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
-- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
@@ -1121,7 +1151,6 @@
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
-- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
@@ -1148,15 +1177,12 @@
 - [EliasKons/MergeSortTasks](https://github.com/EliasKons/MergeSortTasks) - 
 - [EliasKons/MatMultPadding](https://github.com/EliasKons/MatMultPadding) - 
 - [EliasKons/DistributedVotingSystem](https://github.com/EliasKons/DistributedVotingSystem) - 
-- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
 - [EliasKons/ReadWriteVariation](https://github.com/EliasKons/ReadWriteVariation) - 
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [gitolicious/avery-asn](https://github.com/gitolicious/avery-asn) - A label generator for Paperless-ngx labels on Avery labels
-- [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [bradgessler/formdown](https://github.com/bradgessler/formdown) - A Markdown-like syntax for web forms.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
-- [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
@@ -1170,12 +1196,10 @@
 - [Erdk/introtoprofiling](https://github.com/Erdk/introtoprofiling) - Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code.
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
-- [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
 - [kprussing/pandoc-div2env](https://github.com/kprussing/pandoc-div2env) - Convert marked Pandoc Div to LaTeX environment
 - [Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex) - This is a plugin for obsidian that will read your latest copied image from clipboard and generate math latex from it
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [ishan0102/engblogs](https://github.com/ishan0102/engblogs) - learn from your favorite tech companies
-- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, audios, videos, pdfs, markdown, etc in obsidian notes.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [CS-IEEE-SB-NTUA/Ethical-Hacking](https://github.com/CS-IEEE-SB-NTUA/Ethical-Hacking) - A repository where the material of the Ethical Hacking IEEE 2023-2024 team will be uploaded
@@ -1184,11 +1208,9 @@
 - [Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates) - 
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
-- [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [Nigecat/obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - Embed graphs directly into your obsidian notes
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
-- [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -1201,26 +1223,18 @@
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [mpcjanssen/simpletask-android](https://github.com/mpcjanssen/simpletask-android) - 
 - [go-vikunja/app](https://github.com/go-vikunja/app) - 
-- [mvgrimes/obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin) - Obsidian plugin to manage todotxt files
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [PDConSec/vsc-print](https://github.com/PDConSec/vsc-print) - Completely local print support for VS Code with syntax-colouring and line numbering
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
-- [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
-- [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
 - [MichaBrugger/obsidian-footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list) - Display a formatted reference in Obsidian's sidebar for each pandoc citekey in the active document.
-- [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
-- [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
-- [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
-- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
 - [wyuenho/all-the-icons-dired](https://github.com/wyuenho/all-the-icons-dired) - Adds dired support to all-the-icons
