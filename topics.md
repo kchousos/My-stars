@@ -196,14 +196,14 @@
 ## analytics 
 
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## android 
 
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
@@ -399,7 +399,7 @@
 
 ## cpp 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [linkdd/aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
@@ -510,7 +510,7 @@
 
 ## elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## emacs 
 
@@ -671,7 +671,7 @@
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -724,7 +724,7 @@
 
 ## ios 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 
@@ -734,7 +734,7 @@
 
 ## java 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
@@ -895,7 +895,7 @@
 
 ## mobile 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 
 ## mongodb 
@@ -977,7 +977,7 @@
 
 ## objective-c 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## obsidian-plugin 
 
@@ -1364,16 +1364,16 @@
 ## postgresql 
 
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## privacy 
 
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## programming 
 
@@ -1568,13 +1568,13 @@
 ## statistics 
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## tailwindcss 
 
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## tensorflow 
 
@@ -1667,7 +1667,7 @@
 ## website 
 
 - [themisvaltinos/Auction-Website](https://github.com/themisvaltinos/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## windows 
 
