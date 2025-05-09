@@ -467,6 +467,7 @@
 
 ## Python 
 
+- [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server) - A Model Context Protocol (MCP) server for the Open eClass platform.
 - [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - GitHub Action to publish unit test results on GitHub
 - [jantman/repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
