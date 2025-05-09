@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server) - A Model Context Protocol (MCP) server for the Open eClass platform.
 - [AleDenshi/comfy.guide](https://github.com/AleDenshi/comfy.guide) - Comfortable computer tutorials.
 - [HandaArchitect/obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet) - 
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
