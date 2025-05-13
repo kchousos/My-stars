@@ -165,6 +165,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -1627,6 +1628,12 @@
 ## ubuntu 
 
 - [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita) - An expanded Adwaita-styled companion icon theme with extra icons for popular apps and MIME types to complement Gnome Shell's original icons.
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## vim 
 
