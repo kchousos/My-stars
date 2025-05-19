@@ -1061,6 +1061,7 @@
 
 ## others 
 
+- [MrGVSV/obsidian-better-comment-toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) - 
 - [sdi2200262/eclass-mcp-server](https://github.com/sdi2200262/eclass-mcp-server) - A Model Context Protocol (MCP) server for the Open eClass platform.
 - [AleDenshi/comfy.guide](https://github.com/AleDenshi/comfy.guide) - Comfortable computer tutorials.
 - [HandaArchitect/obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet) - 
