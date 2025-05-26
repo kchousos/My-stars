@@ -468,6 +468,7 @@
 
 ## Python 
 
+- [stavros-mhs/LLMs-with-tools](https://github.com/stavros-mhs/LLMs-with-tools) - 
 - [MikeRaphK/PAUL](https://github.com/MikeRaphK/PAUL) - PAUL - Patch Automation Using LLMs
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
