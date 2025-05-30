@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [OpenMined/TenSEAL](https://github.com/OpenMined/TenSEAL) - A library for doing homomorphic encryption operations on tensors
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
@@ -595,6 +596,7 @@
 
 ## Rust 
 
+- [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
