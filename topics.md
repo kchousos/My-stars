@@ -1067,6 +1067,7 @@
 
 ## others 
 
+- [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [joaotavora/darkroom](https://github.com/joaotavora/darkroom) - Simple distraction-free editing
 - [stavros-mhs/LLMs-with-tools](https://github.com/stavros-mhs/LLMs-with-tools) - 
 - [MikeRaphK/PAUL](https://github.com/MikeRaphK/PAUL) - PAUL - Patch Automation Using LLMs
