@@ -198,6 +198,8 @@
 
 ## Emacs Lisp 
 
+- [localauthor/zk](https://github.com/localauthor/zk) - Emacs packages for working with Zettelkasten-style linked notes
+- [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [joaotavora/darkroom](https://github.com/joaotavora/darkroom) - Simple distraction-free editing
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
@@ -262,6 +264,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [jeselnik/rb-scrobbler](https://github.com/jeselnik/rb-scrobbler) - Minimal Rockbox Last.fm Scrobbler (.scrobbler.log files)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
