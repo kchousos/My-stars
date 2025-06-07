@@ -1163,7 +1163,7 @@
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) - An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [KotatsuApp/kotatsu-dl-gui](https://github.com/KotatsuApp/kotatsu-dl-gui) - Cross-plaform desktop manga downloader
