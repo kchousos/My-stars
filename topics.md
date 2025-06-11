@@ -599,6 +599,7 @@
 
 ## font 
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
