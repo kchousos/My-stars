@@ -1073,7 +1073,7 @@
 - [localauthor/zk](https://github.com/localauthor/zk) - Emacs packages for working with Zettelkasten-style linked notes
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [joaotavora/darkroom](https://github.com/joaotavora/darkroom) - Simple distraction-free editing
-- [stavros-mhs/LLMs-with-tools](https://github.com/stavros-mhs/LLMs-with-tools) - 
+- [stavros-mhs/ginny](https://github.com/stavros-mhs/ginny) - 
 - [MikeRaphK/PAUL](https://github.com/MikeRaphK/PAUL) - PAUL - Patch Automation Using LLMs
 - [Jwrede/Anki-KaTeX-Markdown](https://github.com/Jwrede/Anki-KaTeX-Markdown) - Creates a new Basic and a new Cloze Note Type that support Markdown and KaTeX
 - [MrGVSV/obsidian-better-comment-toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) - 
