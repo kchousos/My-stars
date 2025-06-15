@@ -32,6 +32,7 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [MoonScript](#moonscript)
+- [Nix](#nix)
 - [Org](#org)
 - [Others](#others)
 - [PHP](#php)
@@ -198,6 +199,7 @@
 
 ## Emacs Lisp 
 
+- [kmontag/macher](https://github.com/kmontag/macher) - Project-aware multi-file LLM editing for Emacs, based on gptel.
 - [localauthor/zk](https://github.com/localauthor/zk) - Emacs packages for working with Zettelkasten-style linked notes
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
@@ -428,6 +430,10 @@
 
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
 
+## Nix 
+
+- [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+
 ## Org 
 
 - [tecosaur/this-month-in-org](https://github.com/tecosaur/this-month-in-org) - A monthly blog on developments with Org
@@ -443,7 +449,6 @@
 - [ragtux/cnility](https://github.com/ragtux/cnility) - 
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
-- [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
