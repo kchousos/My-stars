@@ -39,6 +39,7 @@
 - [Perl](#perl)
 - [PureScript](#purescript)
 - [Python](#python)
+- [R](#r)
 - [Racket](#racket)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -292,6 +293,7 @@
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - Official website of DIT's Introduction to Programming class
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
@@ -347,7 +349,6 @@
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [themisvaltinos/Auction-Website](https://github.com/themisvaltinos/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -593,6 +594,10 @@
 - [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+## R 
+
+- [AMantes/Greekonomics](https://github.com/AMantes/Greekonomics) - 
 
 ## Racket 
 
