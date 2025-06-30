@@ -485,6 +485,8 @@
 
 ## Python 
 
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [tink-crypto/tink-py](https://github.com/tink-crypto/tink-py) - Python implementation of Tink
 - [DPorichis/RePort](https://github.com/DPorichis/RePort) - RePort - Automatically mapping the attack surface of IoT firmware using Dynamic Analysis
 - [stavros-mhs/ginny](https://github.com/stavros-mhs/ginny) - 
 - [MikeRaphK/PAUL](https://github.com/MikeRaphK/PAUL) - PAUL - Patch Automation Using LLMs
