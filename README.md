@@ -322,6 +322,7 @@
 
 ## JavaScript 
 
+- [shafayetShafee/reveal-autoheader](https://github.com/shafayetShafee/reveal-autoheader) - Automatically apply section Headings to slides in Quarto Reveal.js Presentations.
 - [Jwrede/Anki-KaTeX-Markdown](https://github.com/Jwrede/Anki-KaTeX-Markdown) - Creates a new Basic and a new Cloze Note Type that support Markdown and KaTeX
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
@@ -354,7 +355,7 @@
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [themisvaltinos/Auction-Website](https://github.com/themisvaltinos/Auction-Website) - Full Stack e-commerce app built with Express, Node.js, MySQL and React
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
