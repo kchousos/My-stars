@@ -1077,6 +1077,7 @@
 
 ## others 
 
+- [security-pride/CKGFuzzer](https://github.com/security-pride/CKGFuzzer) - CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph
 - [errikos/dithesis](https://github.com/errikos/dithesis) - Thesis class for undergraduate theses at the University of Athens
 - [leovan/quarto-pseudocode](https://github.com/leovan/quarto-pseudocode) - Quarto Pseudocode Extension
 - [HexHive/FuzzGen](https://github.com/HexHive/FuzzGen) - 
