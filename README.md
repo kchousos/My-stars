@@ -275,6 +275,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [jeselnik/rb-scrobbler](https://github.com/jeselnik/rb-scrobbler) - Minimal Rockbox Last.fm Scrobbler (.scrobbler.log files)
@@ -320,7 +321,6 @@
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - Mirror repository of the LinkDroid for Linkwarden app
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 
 ## JavaScript 
@@ -492,6 +492,7 @@
 
 ## Python 
 
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
