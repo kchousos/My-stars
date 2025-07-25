@@ -858,6 +858,7 @@
 
 ## llm 
 
+- [kchousos/OverHAuL](https://github.com/kchousos/OverHAuL) - Unleash the fuzz on your C codebase.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [kmontag/macher](https://github.com/kmontag/macher) - Project-aware multi-file LLM editing for Emacs, based on gptel.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
@@ -1465,6 +1466,7 @@
 
 ## python 
 
+- [kchousos/OverHAuL](https://github.com/kchousos/OverHAuL) - Unleash the fuzz on your C codebase.
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
@@ -1608,6 +1610,7 @@
 
 ## security 
 
+- [kchousos/OverHAuL](https://github.com/kchousos/OverHAuL) - Unleash the fuzz on your C codebase.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [FuzzAnything/Hopper](https://github.com/FuzzAnything/Hopper) - Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing.
 - [tink-crypto/tink-py](https://github.com/tink-crypto/tink-py) - Python implementation of Tink
