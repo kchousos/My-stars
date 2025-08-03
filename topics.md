@@ -889,6 +889,7 @@
 
 ## machine-learning 
 
+- [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
