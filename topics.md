@@ -179,7 +179,6 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1798,10 +1797,6 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-
-## zsh 
-
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 
 
 ## License
