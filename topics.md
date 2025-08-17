@@ -208,7 +208,7 @@
 
 ## android 
 
-- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -1444,7 +1444,7 @@
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
-- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
