@@ -617,6 +617,7 @@
 ## flutter 
 
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
+- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 
 ## font 
@@ -1210,7 +1211,7 @@
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [KotatsuApp/kotatsu-dl-gui](https://github.com/KotatsuApp/kotatsu-dl-gui) - Cross-plaform desktop manga downloader
-- [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
+- [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x) - GNOME Shell extension to switch day/night user theme&stylesheet when the enabled Night Light gets inactive/active
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
@@ -1291,7 +1292,6 @@
 - [miguelsolorio/min-theme](https://github.com/miguelsolorio/min-theme) - A minimal theme for Visual Studio Code
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [mpcjanssen/simpletask-android](https://github.com/mpcjanssen/simpletask-android) - 
-- [go-vikunja/app](https://github.com/go-vikunja/app) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [PDConSec/vsc-print](https://github.com/PDConSec/vsc-print) - Completely local print support for VS Code with syntax-colouring and line numbering
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
