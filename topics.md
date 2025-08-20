@@ -119,6 +119,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-data](#open-data)
 - [open-source](#open-source)
@@ -1028,6 +1029,35 @@
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
+## obsidian-md 
+
+- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
+- [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
+- [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
+- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
+- [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
+- [SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser) - A chess plugin for obsidian
+- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
+- [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
+- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
+- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
+- [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
+- [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
+- [ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views) - Outliner-like breadcrumb trees for search, backlinks and embedded queries
+- [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference) - Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
+- [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
+- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+- [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+
 ## obsidian-plugin 
 
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
@@ -1155,7 +1185,6 @@
 - [jeprinz/pantograph](https://github.com/jeprinz/pantograph) - 
 - [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins) - Load plugins with a delay on Obsidian startup, so that you can get your app startup down into the sub-second loading time.
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
-- [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
 - [HuangZhuo/minimal-checklists](https://github.com/HuangZhuo/minimal-checklists) - This is a simple extraction from [Obsidian Minimal](https://github.com/kepano/obsidian-minimal) Theme for supporting Alternate Checkboxes.
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
 - [kevinboone/gnome-set-folder-icon](https://github.com/kevinboone/gnome-set-folder-icon) - A script to set directories with a folder/cover file to use that file as an icon in Nautilus
@@ -1172,7 +1201,6 @@
 - [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
 - [tdhooten/Polyglot](https://github.com/tdhooten/Polyglot) - A simple Blazor app which converts libraries of saved links between the native formats of various read-it-later services. Currently supports GoodLinks, Instapaper, Omnivore, Raindrop.io, and Readwise 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
-- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -1200,7 +1228,6 @@
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [jneug/typst-codelst](https://github.com/jneug/typst-codelst) - A typst package to render sourcecode
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [fuglede/llama.ttf](https://github.com/fuglede/llama.ttf) - A font for writing tiny stories
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
@@ -1343,7 +1370,6 @@
 - [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
