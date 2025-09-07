@@ -76,6 +76,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -652,6 +653,10 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## games 
+
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+
+## gaming 
 
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 
