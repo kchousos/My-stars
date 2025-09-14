@@ -750,7 +750,7 @@
 - [Podginator/KoboOmnivoreConverter](https://github.com/Podginator/KoboOmnivoreConverter) - A Proxy to enable the Kobo Clara to use Omnivore over Pocket for it's articles.
 - [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
-- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Pluging
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
