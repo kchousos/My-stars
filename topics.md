@@ -120,6 +120,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-data](#open-data)
@@ -1031,6 +1032,37 @@
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
+## obsidian 
+
+- [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
+- [xectrone/QuickMark](https://github.com/xectrone/QuickMark) - QuickMark is a lightweight and minimalist Android app designed for fast and easy markdown note-taking, allowing users to capture notes instantly using quick tile shortcuts, app shortcuts, or widgets.
+- [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
+- [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
+- [HuangZhuo/minimal-checklists](https://github.com/HuangZhuo/minimal-checklists) - This is a simple extraction from [Obsidian Minimal](https://github.com/kepano/obsidian-minimal) Theme for supporting Alternate Checkboxes.
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
+- [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
+- [OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import) - An Obsidian Plugin that extracts Kobo highlights.
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
+- [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
+- [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
+- [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
+- [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) - Charts - Obsidian Plugin | Create editable, interactive and animated Charts in Obsidian via Chart.js
+- [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
+- [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
+- [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, audios, videos, pdfs, markdown, etc in obsidian notes.
+- [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
+- [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
+- [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
+- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+- [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+
 ## obsidian-md 
 
 - [nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs) - Obsidian plugin to shrink pinned tabs in order to save screen space
@@ -1187,7 +1219,6 @@
 - [jeprinz/pantograph](https://github.com/jeprinz/pantograph) - 
 - [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins) - Load plugins with a delay on Obsidian startup, so that you can get your app startup down into the sub-second loading time.
 - [EncodedMind/Chatbot](https://github.com/EncodedMind/Chatbot) - A voice-based chatbot using OpenAI's API for real-time transcription, conversational AI, and text-to-speech responses. Interact with the bot entirely through voice for an immersive experience.
-- [HuangZhuo/minimal-checklists](https://github.com/HuangZhuo/minimal-checklists) - This is a simple extraction from [Obsidian Minimal](https://github.com/kepano/obsidian-minimal) Theme for supporting Alternate Checkboxes.
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
 - [kevinboone/gnome-set-folder-icon](https://github.com/kevinboone/gnome-set-folder-icon) - A script to set directories with a folder/cover file to use that file as an icon in Nautilus
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
@@ -1330,7 +1361,6 @@
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list) - Display a formatted reference in Obsidian's sidebar for each pandoc citekey in the active document.
-- [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using OpenAI Whisper
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
 - [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [natrys/whisper.el](https://github.com/natrys/whisper.el) - Speech-to-Text interface for Emacs using OpenAI's whisper model and whisper.cpp as inference engine.
