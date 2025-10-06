@@ -637,6 +637,7 @@
 
 ## Rust 
 
+- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [FuzzAnything/PromptFuzz](https://github.com/FuzzAnything/PromptFuzz) - PromtFuzz is an automated tool that generates high-quality fuzz drivers for libraries via a fuzz loop constructed on mutating LLMs' prompts.
 - [FuzzAnything/Hopper](https://github.com/FuzzAnything/Hopper) - Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing.
