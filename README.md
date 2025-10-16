@@ -699,7 +699,7 @@
 ## Svelte 
 
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
-- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
+- [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 
 ## Swift 
 
