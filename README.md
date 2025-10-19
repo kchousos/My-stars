@@ -88,7 +88,6 @@
 - [yannistrf/Parallel-Programming](https://github.com/yannistrf/Parallel-Programming) - 
 - [yannistrf/Readers-Writers-Problem](https://github.com/yannistrf/Readers-Writers-Problem) - An implementation of the readers-writers problem, using semaphores and shared memory in C.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
-- [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [kchousos/IDBS](https://github.com/kchousos/IDBS) - Implementations of different kinds of databases, written in pure C.
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
@@ -689,6 +688,7 @@
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [brummer10/GxPlugins.lv2](https://github.com/brummer10/GxPlugins.lv2) - A set of extra lv2 plugins from the guitarix project.
 - [losuler/com.cisco.PacketTracer](https://github.com/losuler/com.cisco.PacketTracer) - A Flatpak manifest for Cisco's Packet Tracer.
 
