@@ -734,6 +734,7 @@
 
 ## hacktoberfest 
 
+- [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [OpenMined/TenSEAL](https://github.com/OpenMined/TenSEAL) - A library for doing homomorphic encryption operations on tensors
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
@@ -920,7 +921,7 @@
 
 ## machine-learning 
 
-- [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
+- [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - [BSc Thesis] PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
@@ -1189,6 +1190,7 @@
 
 ## others 
 
+- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
 - [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [jgenc/moonfly-vscode-theme](https://github.com/jgenc/moonfly-vscode-theme) - An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
@@ -1370,7 +1372,6 @@
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
 - [Nigecat/obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - Embed graphs directly into your obsidian notes
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [Abdillah/hypothesis-firefox](https://github.com/Abdillah/hypothesis-firefox) - Unofficial. Hypothes.is Firefox addon for annotating anywhere!
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -1544,6 +1545,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
