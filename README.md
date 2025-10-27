@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
 - [comictagger/comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics
 - [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - [BSc Thesis] PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
 - [snejus/beetcamp](https://github.com/snejus/beetcamp) - Bandcamp autotagger source for beets (https://beets.io)
@@ -640,6 +641,7 @@
 
 ## Rust 
 
+- [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [FuzzAnything/PromptFuzz](https://github.com/FuzzAnything/PromptFuzz) - PromtFuzz is an automated tool that generates high-quality fuzz drivers for libraries via a fuzz loop constructed on mutating LLMs' prompts.
@@ -667,7 +669,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - [Deprecated]  An early language server for Typst, plus a VS Code extension
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## SCSS 
 
