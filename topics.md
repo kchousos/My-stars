@@ -46,6 +46,7 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -420,7 +421,7 @@
 ## compiler 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## computer-science 
 
@@ -484,8 +485,13 @@
 
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 
+## data-analysis 
+
+- [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
+
 ## data-science 
 
+- [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 
@@ -1157,6 +1163,7 @@
 
 ## open-data 
 
+- [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
 - [IFCA-Advanced-Computing/anjana](https://github.com/IFCA-Advanced-Computing/anjana) - ANJANA is a Python library for anonymizing sensitive data
 
 ## open-source 
@@ -1193,6 +1200,7 @@
 
 ## others 
 
+- [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
 - [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [jgenc/moonfly-vscode-theme](https://github.com/jgenc/moonfly-vscode-theme) - An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.
