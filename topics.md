@@ -1201,6 +1201,7 @@
 
 ## others 
 
+- [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
 - [tikzit/tikzit](https://github.com/tikzit/tikzit) - pgf/TikZ diagram editor
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
