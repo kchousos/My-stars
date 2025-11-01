@@ -331,6 +331,7 @@
 
 ## JavaScript 
 
+- [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
 - [shafayetShafee/reveal-autoheader](https://github.com/shafayetShafee/reveal-autoheader) - Automatically apply section Headings to slides in Quarto Reveal.js Presentations.
 - [Jwrede/Anki-KaTeX-Markdown](https://github.com/Jwrede/Anki-KaTeX-Markdown) - Creates a new Basic and a new Cloze Note Type that support Markdown and KaTeX
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
