@@ -331,6 +331,7 @@
 
 ## JavaScript 
 
+- [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
 - [shafayetShafee/reveal-autoheader](https://github.com/shafayetShafee/reveal-autoheader) - Automatically apply section Headings to slides in Quarto Reveal.js Presentations.
 - [Jwrede/Anki-KaTeX-Markdown](https://github.com/Jwrede/Anki-KaTeX-Markdown) - Creates a new Basic and a new Cloze Note Type that support Markdown and KaTeX
@@ -423,6 +424,7 @@
 
 ## Lua 
 
+- [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [leovan/quarto-pseudocode](https://github.com/leovan/quarto-pseudocode) - Quarto Pseudocode Extension
 - [pandoc-ext/section-bibliographies](https://github.com/pandoc-ext/section-bibliographies) - Filter to create a separate bibliography for each section or chapter
 - [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
