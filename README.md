@@ -281,6 +281,7 @@
 
 ## Go 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
@@ -501,6 +502,7 @@
 
 ## Python 
 
+- [Deiadara/CPA-Implementation](https://github.com/Deiadara/CPA-Implementation) - An implementation of the Certified Propagation Algorithm for Reliable Broadcast
 - [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
 - [comictagger/comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics
 - [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - [BSc Thesis] PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
@@ -731,7 +733,6 @@
 
 ## TypeScript 
 
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [MrGVSV/obsidian-better-comment-toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) - 
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
