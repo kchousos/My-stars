@@ -1203,6 +1203,7 @@
 
 ## others 
 
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [Deiadara/CPA-Implementation](https://github.com/Deiadara/CPA-Implementation) - An implementation of the Certified Propagation Algorithm for Reliable Broadcast
 - [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
 - [tikzit/tikzit](https://github.com/tikzit/tikzit) - pgf/TikZ diagram editor
