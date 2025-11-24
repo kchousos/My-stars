@@ -401,7 +401,7 @@
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [alessiodm/drl-zh](https://github.com/alessiodm/drl-zh) - Deep Reinforcement Learning: Zero to Hero!
-- [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - Let's build something productive in less than 100 Lines of Code.
+- [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - 🚀 100+ mini-projects demonstrating the power of concise code. Perfect for learning, portfolio building, and first-time open source contributors. Under 100 lines each!
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
