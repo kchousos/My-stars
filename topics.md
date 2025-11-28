@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -193,6 +194,10 @@
 - [windows](#windows)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 
 ## ai 
 
