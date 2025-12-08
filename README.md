@@ -635,6 +635,7 @@
 
 ## R 
 
+- [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [AMantes/Greekonomics](https://github.com/AMantes/Greekonomics) - 
 
 ## Racket 
