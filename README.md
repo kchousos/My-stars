@@ -119,7 +119,6 @@
 - [HexHive/FuzzGen](https://github.com/HexHive/FuzzGen) - 
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [OpenMined/TenSEAL](https://github.com/OpenMined/TenSEAL) - A library for doing homomorphic encryption operations on tensors
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
@@ -289,6 +288,7 @@
 - [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [jeselnik/rb-scrobbler](https://github.com/jeselnik/rb-scrobbler) - Minimal Rockbox Last.fm Scrobbler (.scrobbler.log files)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [shen-yu/hugo-chart](https://github.com/shen-yu/hugo-chart) - a Chart.js component for Hugo. :chart_with_upwards_trend:
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -338,6 +338,7 @@
 - [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
 - [shafayetShafee/reveal-autoheader](https://github.com/shafayetShafee/reveal-autoheader) - Automatically apply section Headings to slides in Quarto Reveal.js Presentations.
 - [Jwrede/Anki-KaTeX-Markdown](https://github.com/Jwrede/Anki-KaTeX-Markdown) - Creates a new Basic and a new Cloze Note Type that support Markdown and KaTeX
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
 - [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
@@ -347,7 +348,6 @@
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [tuberry/user-theme-x](https://github.com/tuberry/user-theme-x) - GNOME Shell extension to switch day/night user theme&stylesheet when the enabled Night Light gets inactive/active
 - [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote) - Take time-stamped YouTube notes
