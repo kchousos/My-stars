@@ -462,6 +462,7 @@
 
 ## Others 
 
+- [pashutk/chocofi](https://github.com/pashutk/chocofi) - Split 36-key keyboard
 - [jgenc/moonfly-vscode-theme](https://github.com/jgenc/moonfly-vscode-theme) - An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.
 - [HandaArchitect/obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet) - 
 - [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
