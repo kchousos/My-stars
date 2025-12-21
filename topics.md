@@ -1241,6 +1241,7 @@
 
 ## others 
 
+- [pashutk/chocofi](https://github.com/pashutk/chocofi) - Split 36-key keyboard
 - [otfried/ipe](https://github.com/otfried/ipe) - The Ipe extensible drawing editor
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
 - [uvm-plaid/programming-dp](https://github.com/uvm-plaid/programming-dp) - 
