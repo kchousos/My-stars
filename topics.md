@@ -56,6 +56,7 @@
 - [deno](#deno)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [devops](#devops)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -550,6 +551,10 @@
 ## developer-tools 
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
+## devops 
+
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 
 ## discord 
 
