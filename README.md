@@ -327,6 +327,7 @@
 
 ## Java 
 
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to th
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
