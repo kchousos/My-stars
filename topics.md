@@ -1014,7 +1014,6 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-- [kchousos/kchousos.github.io](https://github.com/kchousos/kchousos.github.io) - Source of my personal website.
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 
 ## mastodon 
@@ -1251,6 +1250,7 @@
 
 ## others 
 
+- [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [pashutk/chocofi](https://github.com/pashutk/chocofi) - Split 36-key keyboard
 - [otfried/ipe](https://github.com/otfried/ipe) - The Ipe extensible drawing editor
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
