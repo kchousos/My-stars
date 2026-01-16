@@ -1258,6 +1258,8 @@
 
 ## others 
 
+- [manna-harbour/miryoku_kmonad](https://github.com/manna-harbour/miryoku_kmonad) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [pashutk/chocofi](https://github.com/pashutk/chocofi) - Split 36-key keyboard
 - [otfried/ipe](https://github.com/otfried/ipe) - The Ipe extensible drawing editor
