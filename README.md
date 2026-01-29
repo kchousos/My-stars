@@ -509,6 +509,7 @@
 
 ## Python 
 
+- [Zettelkasten-Method/zkviz](https://github.com/Zettelkasten-Method/zkviz) - Zettel Network Visualizer
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [Deiadara/CPA-Implementation](https://github.com/Deiadara/CPA-Implementation) - An implementation of the Certified Propagation Algorithm for Reliable Broadcast
