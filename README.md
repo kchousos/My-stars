@@ -210,6 +210,7 @@
 
 ## Emacs Lisp 
 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) - An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
