@@ -58,6 +58,8 @@
 
 ## C 
 
+- [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem) - A sleek customization for the nice!view shield
+- [manna-harbour/miryoku_zmk](https://github.com/manna-harbour/miryoku_zmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.
 - [manna-harbour/miryoku_kmonad](https://github.com/manna-harbour/miryoku_kmonad) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
 - [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
@@ -197,7 +199,7 @@
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
+- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 
 ## Dockerfile 
 
@@ -210,7 +212,7 @@
 
 ## Emacs Lisp 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 Neomacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aimi
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine. Inline 🖼️4K images/🎥4K videos/🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Ai
 - [hlissner/emacs-hide-mode-line](https://github.com/hlissner/emacs-hide-mode-line) - An Emacs plugin that hides (or masks) the current buffer's mode-line
 - [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
@@ -294,7 +296,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [shen-yu/hugo-chart](https://github.com/shen-yu/hugo-chart) - a Chart.js component for Hugo. :chart_with_upwards_trend:
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mgmeyers/pdfannots2json](https://github.com/mgmeyers/pdfannots2json) - 
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
