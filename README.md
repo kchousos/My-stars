@@ -475,7 +475,6 @@
 - [pashutk/chocofi](https://github.com/pashutk/chocofi) - Split 36-key keyboard
 - [jgenc/moonfly-vscode-theme](https://github.com/jgenc/moonfly-vscode-theme) - An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.
 - [HandaArchitect/obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet) - 
-- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -504,6 +503,7 @@
 
 ## Perl 
 
+- [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 
