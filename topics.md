@@ -23,6 +23,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [blockchain](#blockchain)
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -329,6 +330,10 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
+
+## blockchain 
+
+- [themetalfleece/eldritchain](https://github.com/themetalfleece/eldritchain) - dApp game where you can summon a creature daily. Beware, you might summon an Eldritch horror!
 
 ## bugbounty 
 
