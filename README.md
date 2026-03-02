@@ -627,7 +627,7 @@
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [yannistrf/LoginSystem-mysql-Tkinter](https://github.com/yannistrf/LoginSystem-mysql-Tkinter) - A simple login system following the server-client model
 - [yannistrf/QR-code-generator-Tkinter](https://github.com/yannistrf/QR-code-generator-Tkinter) - Small tkinter application to generate any qr code given some text.
 - [yannistrf/Tic-Tac-Toe-sockets](https://github.com/yannistrf/Tic-Tac-Toe-sockets) - Play tic-tac-toe with your friend wherever he is !!!
@@ -769,7 +769,7 @@
 - [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
-- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert music links between streaming services
 - [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) - Create markdown-based reveal.js presentations in Obsidian
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [zebreus/all-gnome-backgrounds](https://github.com/zebreus/all-gnome-backgrounds) - Get all the gnome backgrounds
