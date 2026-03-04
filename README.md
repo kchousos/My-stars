@@ -515,7 +515,7 @@
 - [Deiadara/CPA-Implementation](https://github.com/Deiadara/CPA-Implementation) - An implementation of the Certified Propagation Algorithm for Reliable Broadcast
 - [IFCA-Advanced-Computing/pycanon](https://github.com/IFCA-Advanced-Computing/pycanon) - pyCANON is a Python library and CLI to assess the values of the parameters associated with the most common privacy-preserving techniques.
 - [comictagger/comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics
-- [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - [BSc Thesis] PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
+- [pavlosdais/PriSM](https://github.com/pavlosdais/PriSM) - [TMLR'26] PriSM: Prior-Guided Search Methods for Query Efficient Black-Box Adversarial Attacks
 - [snejus/beetcamp](https://github.com/snejus/beetcamp) - Bandcamp autotagger source for beets (https://beets.io)
 - [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - [NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
