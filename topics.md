@@ -106,6 +106,7 @@
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
+- [laravel](#laravel)
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
@@ -927,6 +928,10 @@
 - [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+
+## laravel 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## latex 
 
