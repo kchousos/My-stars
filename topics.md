@@ -1298,6 +1298,7 @@
 
 ## others 
 
+- [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - PPRL
 - [guardian/coverdrop](https://github.com/guardian/coverdrop) - Blowing the whistle through a news app
 - [soymou/ob-lean4](https://github.com/soymou/ob-lean4) - Org babel for Lean4
 - [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem) - A sleek customization for the nice!view shield
