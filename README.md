@@ -354,7 +354,7 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [jqno/gnome-one-window-wonderland](https://github.com/jqno/gnome-one-window-wonderland) - Gnome Shell extension that automatically maximizes new windows, leaving 'useless gaps' around them
 - [diegoeis/simple-obsidian](https://github.com/diegoeis/simple-obsidian) - The Simple is a theme for Obsidian that prioritizes reading and writing.
-- [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
+- [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - GNOME Shell extension that shows real-time CPU, RAM, swap, disk, network, and GPU metrics in the top bar, with customizable layout, colors, alerts, and Dash to Panel multi-panel support.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
@@ -742,6 +742,7 @@
 
 ## TeX 
 
+- [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [errikos/dithesis](https://github.com/errikos/dithesis) - Thesis class for undergraduate theses at the University of Athens
 - [bbartholdy/endgame](https://github.com/bbartholdy/endgame) - Semi-continuous deployment of my PhD dissertation
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
