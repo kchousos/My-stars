@@ -1298,6 +1298,7 @@
 
 ## others 
 
+- [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - PPRL
 - [guardian/coverdrop](https://github.com/guardian/coverdrop) - Blowing the whistle through a news app
 - [soymou/ob-lean4](https://github.com/soymou/ob-lean4) - Org babel for Lean4
@@ -1383,7 +1384,7 @@
 - [AnotherStranger/rockbox-scrobbler](https://github.com/AnotherStranger/rockbox-scrobbler) - A utility to send a rockbox .scrobble.log to ListenBrainz
 - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
-- [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - Resource_Monitor is a GNOME Shell extension that Monitor the use of system resources like cpu, ram, disk, network and display them in GNOME Shell top bar.
+- [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - GNOME Shell extension that shows real-time CPU, RAM, swap, disk, network, and GPU metrics in the top bar, with customizable layout, colors, alerts, and Dash to Panel multi-panel support.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
 - [cneuralnetwork/Company-Links](https://github.com/cneuralnetwork/Company-Links) - 
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to th
