@@ -34,6 +34,7 @@
 - [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Nix](#nix)
+- [OCaml](#ocaml)
 - [Org](#org)
 - [Others](#others)
 - [PHP](#php)
@@ -469,6 +470,10 @@
 
 - [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
+## OCaml 
+
+- [punchagan/elfeed-offline](https://github.com/punchagan/elfeed-offline) - Offline reading for elfeed posts using a Service Worker
+
 ## Org 
 
 - [tecosaur/this-month-in-org](https://github.com/tecosaur/this-month-in-org) - A monthly blog on developments with Org
@@ -506,6 +511,7 @@
 
 ## Perl 
 
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [linux-test-project/lcov](https://github.com/linux-test-project/lcov) - LCOV
 - [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) - SICP PDF with Texinfo and LaTeX source
 
