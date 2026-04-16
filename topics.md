@@ -149,6 +149,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
@@ -438,6 +439,7 @@
 
 ## cms 
 
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## code 
@@ -755,6 +757,7 @@
 
 ## git 
 
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [jantman/repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -943,6 +946,7 @@
 
 ## latex 
 
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
@@ -1304,6 +1308,7 @@
 
 ## others 
 
+- [punchagan/elfeed-offline](https://github.com/punchagan/elfeed-offline) - Offline reading for elfeed posts using a Service Worker
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - PPRL
 - [guardian/coverdrop](https://github.com/guardian/coverdrop) - Blowing the whistle through a news app
@@ -1643,6 +1648,10 @@
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 
+## perl 
+
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
+
 ## php 
 
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
@@ -1702,6 +1711,7 @@
 
 ## publishing 
 
+- [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## pwa 
