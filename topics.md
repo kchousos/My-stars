@@ -207,6 +207,7 @@
 - [website](#website)
 - [windows](#windows)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## agent 
@@ -1310,7 +1311,6 @@
 
 - [punchagan/elfeed-offline](https://github.com/punchagan/elfeed-offline) - Offline reading for elfeed posts using a Service Worker
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
-- [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - PPRL
 - [guardian/coverdrop](https://github.com/guardian/coverdrop) - Blowing the whistle through a news app
 - [soymou/ob-lean4](https://github.com/soymou/ob-lean4) - Org babel for Lean4
 - [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem) - A sleek customization for the nice!view shield
@@ -1434,7 +1434,7 @@
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [davidhealey/waistline](https://github.com/davidhealey/waistline) - Libre calorie counter app for Android. Built with Cordova.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) - An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
@@ -1669,6 +1669,7 @@
 ## privacy 
 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Privacy Preserving Record Linkage workflows.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
@@ -1720,6 +1721,7 @@
 
 ## python 
 
+- [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Privacy Preserving Record Linkage workflows.
 - [ibarrond/Pyfhel](https://github.com/ibarrond/Pyfhel) - PYthon For Homomorphic Encryption Libraries, perform encrypted computations such as sum, mult, scalar product or matrix multiplication in Python, with NumPy compatibility. Uses SEAL/PALISADE as backen
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [OpenMined/SyMPC](https://github.com/OpenMined/SyMPC) - A SMPC companion library for Syft
@@ -2089,6 +2091,10 @@
 - [ahmedelq/NattyNote](https://github.com/ahmedelq/NattyNote) - Take time-stamped YouTube notes
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [zerodytrash/Simple-YouTube-Age-Restriction-Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple browser extension to bypass YouTube's age verification, disable content warnings and watch age restricted videos without having to sign in!
+
+## zig 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## zsh 
 
