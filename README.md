@@ -279,7 +279,7 @@
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [tarsius/minions](https://github.com/tarsius/minions) - A minor-mode menu for the mode line
-- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [abo-abo/ace-window](https://github.com/abo-abo/ace-window) - Quickly switch windows in Emacs
@@ -748,6 +748,7 @@
 
 ## TeX 
 
+- [jolars/moloch](https://github.com/jolars/moloch) - Moloch is a minimalist, feature-rich Beamer theme for LaTeX presentations with a clean design and extensive customization options.
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [errikos/dithesis](https://github.com/errikos/dithesis) - Thesis class for undergraduate theses at the University of Athens
 - [bbartholdy/endgame](https://github.com/bbartholdy/endgame) - Semi-continuous deployment of my PhD dissertation
