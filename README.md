@@ -748,6 +748,7 @@
 
 ## TeX 
 
+- [firamath/firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
 - [jolars/moloch](https://github.com/jolars/moloch) - Moloch is a minimalist, feature-rich Beamer theme for LaTeX presentations with a clean design and extensive customization options.
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [errikos/dithesis](https://github.com/errikos/dithesis) - Thesis class for undergraduate theses at the University of Athens
