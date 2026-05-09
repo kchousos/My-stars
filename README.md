@@ -700,7 +700,7 @@
 - [fuglede/llama.ttf](https://github.com/fuglede/llama.ttf) - A font for writing tiny stories
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
-- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
+- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - A vector indexing library to bring fast, fresh and filtered search to your database
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
