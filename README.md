@@ -769,7 +769,6 @@
 
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [themetalfleece/eldritchain](https://github.com/themetalfleece/eldritchain) - dApp game where you can summon a creature daily. Beware, you might summon an Eldritch horror!
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
 - [MrGVSV/obsidian-better-comment-toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle) - 
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
