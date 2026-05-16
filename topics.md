@@ -1316,6 +1316,7 @@
 
 ## others 
 
+- [focustimerhq/gnome-shell-extension-focus-timer](https://github.com/focustimerhq/gnome-shell-extension-focus-timer) - GNOME Shell integration for the Focus Timer app
 - [KRolander/Gryphon](https://github.com/KRolander/Gryphon) - 
 - [punchagan/elfeed-offline](https://github.com/punchagan/elfeed-offline) - Offline reading for elfeed posts using a Service Worker
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
