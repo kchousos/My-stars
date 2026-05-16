@@ -349,6 +349,7 @@
 
 ## JavaScript 
 
+- [focustimerhq/gnome-shell-extension-focus-timer](https://github.com/focustimerhq/gnome-shell-extension-focus-timer) - GNOME Shell integration for the Focus Timer app
 - [KRolander/Gryphon](https://github.com/KRolander/Gryphon) - 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [aepsilon/turing-machine-viz](https://github.com/aepsilon/turing-machine-viz) - Visualize Turing machines and deterministic finite automata. 🔵🔁🔴↩️
