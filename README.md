@@ -19,7 +19,6 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
-- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -289,10 +288,6 @@
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-## GLSL 
-
-- [jgenc/dotfiles](https://github.com/jgenc/dotfiles) - Custom configuration on several Linux packages (~/.config)
 
 ## Go 
 
