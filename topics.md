@@ -1316,6 +1316,8 @@
 
 ## others 
 
+- [gongshangzheng/ratex.el](https://github.com/gongshangzheng/ratex.el) - 
+- [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 - [eNotchy/4g](https://github.com/eNotchy/4g) - Browse imageboards in Emacs Org-Mode.
 - [focustimerhq/gnome-shell-extension-focus-timer](https://github.com/focustimerhq/gnome-shell-extension-focus-timer) - GNOME Shell integration for the Focus Timer app
 - [KRolander/Gryphon](https://github.com/KRolander/Gryphon) - 
