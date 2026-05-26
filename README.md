@@ -27,6 +27,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -216,6 +217,7 @@
 
 ## Emacs Lisp 
 
+- [gongshangzheng/ratex.el](https://github.com/gongshangzheng/ratex.el) - 
 - [eNotchy/4g](https://github.com/eNotchy/4g) - Browse imageboards in Emacs Org-Mode.
 - [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [soymou/ob-lean4](https://github.com/soymou/ob-lean4) - Org babel for Lean4
@@ -435,6 +437,10 @@
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+
+## Lean 
+
+- [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 
 ## Lua 
 
