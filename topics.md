@@ -625,7 +625,7 @@
 
 - [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [isamert/jsdoc.el](https://github.com/isamert/jsdoc.el) - Insert JSDoc comments easily with Emacs
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [ptpt/org-notes-style](https://github.com/ptpt/org-notes-style) - A light CSS theme for Org mode HTML export
 - [andre-r/centered-cursor-mode.el](https://github.com/andre-r/centered-cursor-mode.el) - An emacs minor mode for smooth scrolling
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
@@ -1121,7 +1121,7 @@
 
 ## neovim 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
@@ -1315,6 +1315,7 @@
 
 ## others 
 
+- [AI-team-UoA/ChatMatcher](https://github.com/AI-team-UoA/ChatMatcher) - ER & PPRL System for Matching Entities With LLMs
 - [gongshangzheng/ratex.el](https://github.com/gongshangzheng/ratex.el) - 
 - [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 - [eNotchy/4g](https://github.com/eNotchy/4g) - Browse imageboards in Emacs Org-Mode.
@@ -1693,7 +1694,7 @@
 
 ## productivity 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) - Activity and idle watchers
@@ -1864,7 +1865,7 @@
 ## rust 
 
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [FuzzAnything/Hopper](https://github.com/FuzzAnything/Hopper) - Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing.
@@ -1968,7 +1969,7 @@
 
 ## terminal 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2044,7 +2045,7 @@
 
 ## vim 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
