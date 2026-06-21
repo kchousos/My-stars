@@ -217,6 +217,7 @@
 
 ## Emacs Lisp 
 
+- [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [gongshangzheng/ratex.el](https://github.com/gongshangzheng/ratex.el) - 
 - [eNotchy/4g](https://github.com/eNotchy/4g) - Browse imageboards in Emacs Org-Mode.
 - [sp1ff/elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
