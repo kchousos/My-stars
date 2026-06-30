@@ -580,7 +580,6 @@
 ## developer-tools 
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 
 ## discord 
 
