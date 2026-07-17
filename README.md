@@ -128,6 +128,7 @@
 - [OpenMined/TenSEAL](https://github.com/OpenMined/TenSEAL) - A library for doing homomorphic encryption operations on tensors
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
@@ -576,7 +577,6 @@
 - [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 - [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) - a static analysis tool for finding vulnerabilities in C/C++ source code
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
