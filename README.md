@@ -719,7 +719,7 @@
 
 - [ptpt/org-notes-style](https://github.com/ptpt/org-notes-style) - A light CSS theme for Org mode HTML export
 - [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js
-- [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
+- [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - 「DEPRECATED」A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
 
 ## Shell 
 
