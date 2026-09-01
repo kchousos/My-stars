@@ -837,7 +837,6 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
-- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) - Utility to convert JSON data (for content you own) from 5etools or pf2etools into Obsidian-friendly Markdown.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
@@ -1436,6 +1435,7 @@
 - [davidfor/calibre-annotations](https://github.com/davidfor/calibre-annotations) - A calibre UI plugin that fetches and imports annotations from a variety of readers and iOS applications
 - [tdhooten/Polyglot](https://github.com/tdhooten/Polyglot) - A simple Blazor app which converts libraries of saved links between the native formats of various read-it-later services. Currently supports GoodLinks, Instapaper, Omnivore, Raindrop.io, and Readwise 
 - [preda/gpuowl](https://github.com/preda/gpuowl) - GPU Mersenne primality test.
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
