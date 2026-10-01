@@ -1553,7 +1553,7 @@
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
-- [MichaBrugger/obsidian-footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [community-archive/obsidian-pandoc-reference-list](https://github.com/community-archive/obsidian-pandoc-reference-list) - Display a formatted reference in Obsidian's sidebar for each pandoc citekey in the active document.
@@ -1594,7 +1594,7 @@
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/veenew](https://github.com/vasanthv/veenew) - Free group video call for the web. No signups. No downloads.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
