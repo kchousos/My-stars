@@ -1080,6 +1080,7 @@
 - [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
@@ -1218,6 +1219,7 @@
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) - Speech-to-text in Obsidian using Whisper
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
@@ -1281,6 +1283,7 @@
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
@@ -1553,7 +1556,6 @@
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [CamielBouchier/cb_thunderlink](https://github.com/CamielBouchier/cb_thunderlink) - thunderlink replacement: Clickable, durable links to specific messages inside Thunderbird.
-- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [community-archive/obsidian-pandoc-reference-list](https://github.com/community-archive/obsidian-pandoc-reference-list) - Display a formatted reference in Obsidian's sidebar for each pandoc citekey in the active document.
