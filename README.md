@@ -846,7 +846,7 @@
 - [PDConSec/vsc-print](https://github.com/PDConSec/vsc-print) - Completely local print support for VS Code with syntax-colouring and line numbering
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
-- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
