@@ -524,7 +524,6 @@
 ## Python 
 
 - [AI-team-UoA/RECITALS-cryptography-manager](https://github.com/AI-team-UoA/RECITALS-cryptography-manager) - Cryptography component for the RECITALS platform
-- [AI-team-UoA/ChatMatcher](https://github.com/AI-team-UoA/ChatMatcher) - ER & PPRL System for Matching Entities With LLMs
 - [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Privacy Preserving Record Linkage workflows.
 - [Zettelkasten-Method/zkviz](https://github.com/Zettelkasten-Method/zkviz) - Zettel Network Visualizer
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -773,6 +772,7 @@
 
 ## TypeScript 
 
+- [AI-team-UoA/ChatMatcher](https://github.com/AI-team-UoA/ChatMatcher) - ER & PPRL System for Matching Entities With LLMs
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [themetalfleece/eldritchain](https://github.com/themetalfleece/eldritchain) - dApp game where you can summon a creature daily. Beware, you might summon an Eldritch horror!
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
