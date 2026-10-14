@@ -1217,7 +1217,7 @@
 - [amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider) - An obsidian plugin that helps to make slider for images, audios, videos, pdfs, markdown, etc in obsidian notes.
 - [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
 - [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
-- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian.
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
@@ -1248,7 +1248,7 @@
 - [twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code) - Obsidian Plugin to execute code in a note.
 - [community-archive/obsidian-zotero-integration](https://github.com/community-archive/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
 - [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
-- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian.
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
@@ -1281,7 +1281,7 @@
 - [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) - This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow you to export to formats like Markdown、Markdown (Hugo https://gohugo.io/ )、Html、docx、Latex etc.
 - [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
 - [mvgrimes/obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin) - Obsidian plugin to manage todotxt files
-- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian.
 - [tth05/obsidian-completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
@@ -1335,6 +1335,7 @@
 
 ## others 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [AI-team-UoA/RECITALS-cryptography-manager](https://github.com/AI-team-UoA/RECITALS-cryptography-manager) - Cryptography component for the RECITALS platform
 - [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [AI-team-UoA/ChatMatcher](https://github.com/AI-team-UoA/ChatMatcher) - ER & PPRL System for Matching Entities With LLMs
