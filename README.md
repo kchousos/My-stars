@@ -522,6 +522,7 @@
 
 ## Python 
 
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [AI-team-UoA/RECITALS-cryptography-manager](https://github.com/AI-team-UoA/RECITALS-cryptography-manager) - Cryptography component for the RECITALS platform
 - [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Privacy Preserving Record Linkage workflows.
 - [Zettelkasten-Method/zkviz](https://github.com/Zettelkasten-Method/zkviz) - Zettel Network Visualizer
