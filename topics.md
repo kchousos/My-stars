@@ -1335,6 +1335,7 @@
 
 ## others 
 
+- [leanprover/elan](https://github.com/leanprover/elan) - The Lean version manager
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [AI-team-UoA/RECITALS-cryptography-manager](https://github.com/AI-team-UoA/RECITALS-cryptography-manager) - Cryptography component for the RECITALS platform
