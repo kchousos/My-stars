@@ -959,7 +959,7 @@
 
 ## latex 
 
-- [jolars/moloch](https://github.com/jolars/moloch) - Moloch is a minimalist, feature-rich Beamer theme for LaTeX presentations with a clean design and extensive customization options.
+- [jolars/moloch](https://github.com/jolars/moloch) - Minimalist, feature-rich Beamer theme for LaTeX presentations
 - [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
