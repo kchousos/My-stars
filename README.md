@@ -755,7 +755,7 @@
 ## TeX 
 
 - [firamath/firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
-- [jolars/moloch](https://github.com/jolars/moloch) - Moloch is a minimalist, feature-rich Beamer theme for LaTeX presentations with a clean design and extensive customization options.
+- [jolars/moloch](https://github.com/jolars/moloch) - Minimalist, feature-rich Beamer theme for LaTeX presentations
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [errikos/dithesis](https://github.com/errikos/dithesis) - Thesis class for undergraduate theses at the University of Athens
 - [bbartholdy/endgame](https://github.com/bbartholdy/endgame) - Semi-continuous deployment of my PhD dissertation
@@ -774,7 +774,6 @@
 ## TypeScript 
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [AI-team-UoA/ChatMatcher](https://github.com/AI-team-UoA/ChatMatcher) - ER & PPRL System for Matching Entities With LLMs
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [themetalfleece/eldritchain](https://github.com/themetalfleece/eldritchain) - dApp game where you can summon a creature daily. Beware, you might summon an Eldritch horror!
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
@@ -872,7 +871,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) - Let's tweak gnome Quick Settings! You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 
