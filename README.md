@@ -84,6 +84,7 @@
 - [EliasKons/MatMultPadding](https://github.com/EliasKons/MatMultPadding) - 
 - [EliasKons/DistributedVotingSystem](https://github.com/EliasKons/DistributedVotingSystem) - 
 - [EliasKons/ReadWriteVariation](https://github.com/EliasKons/ReadWriteVariation) - 
+- [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [mitxela/candle](https://github.com/mitxela/candle) - 
 - [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking
 - [Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project](https://github.com/Angelos-Tsitsoli/Implementation-And-Creation-Of-Data-Bases-Project) - 
@@ -624,7 +625,6 @@
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 - [gitolicious/avery-asn](https://github.com/gitolicious/avery-asn) - A label generator for Paperless-ngx labels on Avery labels
 - [MathInspector/MathInspector](https://github.com/MathInspector/MathInspector) - A visual programing environment for scientific computing with python
-- [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [abukharin3/ERNIE](https://github.com/abukharin3/ERNIE) - Code for the NeurIPS 2023 Paper: Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms
 - [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
