@@ -30,6 +30,7 @@
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Meson](#meson)
@@ -329,7 +330,6 @@
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [thoughtbot/maybe_haskell](https://github.com/thoughtbot/maybe_haskell) - Programming without Null
 - [progintro/progintro.github.io](https://github.com/progintro/progintro.github.io) - Official website of DIT's Introduction to Programming class
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [brittAnderson/Intro2Computing4Psychology](https://github.com/brittAnderson/Intro2Computing4Psychology) - A guided introduction to computing tools useful for research in psychology - targeted to complete beginners
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
@@ -457,6 +457,10 @@
 - [stefanocoretta/lmt](https://github.com/stefanocoretta/lmt) - Literate Markdown Tangler extension for Quarto
 - [stelzch/zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Display Zotero collection on E-Readers with KOReader
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
