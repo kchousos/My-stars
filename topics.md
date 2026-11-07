@@ -208,6 +208,7 @@
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1453,7 +1454,6 @@
 - [kevinboone/gnome-set-folder-icon](https://github.com/kevinboone/gnome-set-folder-icon) - A script to set directories with a folder/cover file to use that file as an icon in Nautilus
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [AnotherStranger/rockbox-scrobbler](https://github.com/AnotherStranger/rockbox-scrobbler) - A utility to send a rockbox .scrobble.log to ListenBrainz
-- [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [0ry0n/Resource_Monitor](https://github.com/0ry0n/Resource_Monitor) - GNOME Shell extension that shows real-time CPU, RAM, swap, disk, network, and GPU metrics in the top bar, with customizable layout, colors, alerts, and Dash to Panel multi-panel support.
 - [CleoMenezesJr/weather-oclock](https://github.com/CleoMenezesJr/weather-oclock) - Display the current weather inside the pill next to the clock.
@@ -2105,6 +2105,11 @@
 
 - [Zettelkasten-Method/zkviz](https://github.com/Zettelkasten-Method/zkviz) - Zettel Network Visualizer
 - [potamides/DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ.
+
+## vscode 
+
+- [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 
 ## vue 
 
