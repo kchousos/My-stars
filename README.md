@@ -110,7 +110,6 @@
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## C# # 
@@ -513,6 +512,7 @@
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [aimacode/aima-pseudocode](https://github.com/aimacode/aima-pseudocode) - Pseudocode descriptions of the algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [rougier/baby-gnu-tux](https://github.com/rougier/baby-gnu-tux) - 3D files for printing baby GNU and Tux
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 
 ## PHP 
 
