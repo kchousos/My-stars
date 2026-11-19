@@ -194,6 +194,7 @@
 - [solidity](#solidity)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
@@ -812,7 +813,7 @@
 
 - [melmothx/amusewiki](https://github.com/melmothx/amusewiki) - Text::Amuse-based publishing platform
 - [jantman/repostatus.org](https://github.com/jantman/repostatus.org) - A standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
@@ -879,7 +880,6 @@
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts) - Obsidian TTS Plugin
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -1535,7 +1535,6 @@
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [shen-yu/hugo-chart](https://github.com/shen-yu/hugo-chart) - a Chart.js component for Hugo. :chart_with_upwards_trend:
 - [joksas/hugo-simplecite](https://github.com/joksas/hugo-simplecite) - Citations in Hugo websites.
-- [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
 - [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
 - [ccd0/4chan-x](https://github.com/ccd0/4chan-x) - Adds various features to anonymous imageboards.
 - [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird
@@ -1653,7 +1652,6 @@
 - [yannistrf/Readers-Writers-Problem](https://github.com/yannistrf/Readers-Writers-Problem) - An implementation of the readers-writers problem, using semaphores and shared memory in C.
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
-- [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
 - [adamstark/AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files.
 - [ericmurphyxyz/hugo-starter-theme](https://github.com/ericmurphyxyz/hugo-starter-theme) - Simple starter theme for Hugo, for use as a base for your theme
 - [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - 「DEPRECATED」A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
@@ -1946,7 +1944,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
@@ -2020,6 +2018,14 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
+## static-site-generator 
+
+- [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
+- [shi-yan/Epiphany](https://github.com/shi-yan/Epiphany) - A note-taking App with a static blog generator focusing on technical writing
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
 ## statistics 
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
@@ -2071,6 +2077,7 @@
 
 ## tui 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
