@@ -375,6 +375,7 @@
 - [mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) - A plugin for Obsidian.md for styling codeblocks and inline code
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator) - QR Code Label Generator for ASNs in Paperless-ngx
 - [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
@@ -501,7 +502,6 @@
 - [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [Erdk/introtoprofiling](https://github.com/Erdk/introtoprofiling) - Intorduction to profiling C\C++ applications. Description of different tools, comparison of capabilities and examples in code.
 - [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers"
@@ -701,7 +701,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
