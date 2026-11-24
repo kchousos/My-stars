@@ -204,7 +204,7 @@
 - [Priyanshu-5257/keepme-away](https://github.com/Priyanshu-5257/keepme-away) - 
 - [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
-- [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
+- [go-vikunja/app-legacy](https://github.com/go-vikunja/app-legacy) - 🚧 will be archived soon! New app: https://github.com/go-vikunja/app
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 
@@ -534,7 +534,7 @@
 - [AI-team-UoA/RECITALS-cryptography-manager](https://github.com/AI-team-UoA/RECITALS-cryptography-manager) - Cryptography component for the RECITALS platform
 - [AI-team-UoA/privJedAI](https://github.com/AI-team-UoA/privJedAI) - An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Privacy Preserving Record Linkage workflows.
 - [Zettelkasten-Method/zkviz](https://github.com/Zettelkasten-Method/zkviz) - Zettel Network Visualizer
-- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
+- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python, classical and post-quantum
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [Deiadara/CPA-Implementation](https://github.com/Deiadara/CPA-Implementation) - An implementation of the Certified Propagation Algorithm for Reliable Broadcast
